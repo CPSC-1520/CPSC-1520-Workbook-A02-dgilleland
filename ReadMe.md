@@ -39,6 +39,8 @@ At the end of the term, your repositories on the [CPSC-1520 GitHub Organization]
 - **Books/Videos**
   - Refer to [Readings.md](./docs/Readings.md) in the docs folder for official and recommended reading materials. Also, take a look at the [LanguageRef.md](./docs/LanguageRef.md) doc.
 
+> A [Winstall Pack](https://winstall.app/packs/Kk3wzlS33) is available with the software listed above.
+
 Other recommended resources include:
 
 - **Mozilla Developer Network** (*MDN*)
