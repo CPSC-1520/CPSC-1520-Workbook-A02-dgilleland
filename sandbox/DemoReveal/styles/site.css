@@ -1,0 +1,28 @@
+* {
+    border-collapse: collapse;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    /* background-color:teal; */
+    background-image: url("../img/reiseuhu-_UcCeSMgIrQ-unsplash.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    border-collapse: collapse;
+}
+
+main > div {
+    border: solid thin blue;
+    background-color: aqua;
+    text-align: center;
+    font-size: 32px;
+    height: 160px;
+}
+
+
+.reveal {
+    background-color: transparent;
+    border: 0;
+}

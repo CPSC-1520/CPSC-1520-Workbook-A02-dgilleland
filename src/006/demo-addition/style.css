@@ -1,0 +1,16 @@
+body {
+    font-size: 40px;
+}
+
+output, span {
+    display: inline-block;
+    min-width: 75px;
+    min-height: 50px;
+    border: solid thin gray;
+    vertical-align: top;
+    text-align: center;
+}
+
+span {
+    border: 0;
+}

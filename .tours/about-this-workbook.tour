@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "About This Workbook",
+  "steps": [
+    {
+      "file": "ReadMe.md",
+      "description": "This ReadMe.md file on the root of your workbook identifies key items to get started with this course. It is written in **MarkDown**, the defacto-best-way to create and maintain your documentation quickly and cleanly.",
+      "line": 1
+    },
+    {
+      "file": "docs/mynotes/ReadMe.md",
+      "description": "You are encouraged to add notes as you go through this course. Doing so will greatly enhance your learning, and it can be fun too!",
+      "line": 1
+    }
+  ]
+}

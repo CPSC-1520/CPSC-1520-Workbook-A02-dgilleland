@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Thasadith&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    display: grid;
+    gap: 10px;
+    grid-template-areas:
+        "foot head head head head"
+        "link head head head head"
+        "link head head head head"
+        "link head head head head"
+        "link main main main side";
+    /* grid-template-areas:
+        "link head head head head"
+        "link main main main side"
+        "foot foot foot foot side"; */
+}
+
+body > * {
+    padding:10px;
+}
+
+body > main {
+    grid-area: main;
+}
+
+body > header {
+    grid-area: head;
+    color: white;
+    background-image: url(./images/header-backdrop.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 448px;
+    width: 1500px;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+body > header > h1 {
+    backdrop-filter: blur(15px) opacity(0.8);
+    padding: 200px 400px 10px 400px;
+    margin: 0;
+    height: calc(448px - 210px);
+    width: calc(1500px - 800px);
+}
+
+body > footer {
+    grid-area: foot;
+}
+
+body > nav {
+    grid-area: link;
+    min-width: 300px;
+}
+
+body > aside {
+    grid-area: side;
+    background-color: oldlace;
+}
+
+.top-nav {
+    background-color: whitesmoke;
+}
+.top-nav ul {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    list-style: none;
+}
+.top-nav ul li {
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+.top-nav a {
+    text-decoration: none;
+    font-size:1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Lato';
+}
+
+h1, h2, h3 {
+    font-family: 'Lora', serif;
+}
+
+header {
+    position: relative;
+}
+header > address {
+    position: relative;
+    bottom: 70px;
+}
+header > address > a {
+    text-decoration: none;
+    color: inherit;
+}
+header > address > a:hover {
+    text-decoration: underline;
+}
+
+main > h1 {
+    color: tomato;
+}
