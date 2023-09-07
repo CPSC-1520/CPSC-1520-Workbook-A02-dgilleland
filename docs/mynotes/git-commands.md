@@ -40,3 +40,14 @@ Here's some other helpful commands with regard to the remote repository connecti
 - `git remote remove [remoteName]` - Remove a remote entry
 - `git remote add [remoteName] [URL-to-Repository]` - Add a remote repository
 
+## Committing Code
+
+To commit your code, do the following:
+
+```git
+git add .
+git commit -m "Your commit message"
+git push
+```
+
+**Note:** When doing `git add`, the period `.` means "all items in this folder and below". But you can also be specific about what files you want to add (that is *stage* for commit).

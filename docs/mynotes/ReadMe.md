@@ -8,6 +8,10 @@ Your first learning adventure should begin with [**Mastering Markdown**](https:/
 
 > *Create an un-ordered list here for your own table of contents, and add links to additional Markdown pages in this folder.*
 
+- [My Journal](./Journal.md)
+- [`git` Command](./git-commands.md)
+  - 
+
 ----
 
 <!-- Custom Styling - Modify for Fun and Learning - No Warranties Implied -->
