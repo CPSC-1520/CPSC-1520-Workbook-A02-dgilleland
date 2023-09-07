@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11711061&assignment_repo_type=AssignmentRepo)
-# CPSC-1520 - **Student Workbook** (Sep 2023)
+# CPSC-1520 - **Instructor Workbook** (Sep 2023)
 
-> **STUDENT_NAME** - Place your name in this line.
+> **Dan Gilleland** - Place your name in this line.
 
 ## ![Inside This Repo](./docs/images/level.png) Inside this repository
 
@@ -38,6 +38,8 @@ At the end of the term, your repositories on the [CPSC-1520 GitHub Organization]
   - [**FireBase**](https://firebase.google.com/) - Similar to *Netlify* and *Vercel*, FireBase also offers various features/products to support dynamic websites, including *realtime databases* and *authentication*.
 - **Books/Videos**
   - Refer to [Readings.md](./docs/Readings.md) in the docs folder for official and recommended reading materials. Also, take a look at the [LanguageRef.md](./docs/LanguageRef.md) doc.
+
+> A [Winstall Pack](https://winstall.app/packs/Kk3wzlS33) is available with the software listed above.
 
 Other recommended resources include:
 
