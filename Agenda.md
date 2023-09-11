@@ -4,6 +4,16 @@
 
 ----
 
+## Sep 11
+
+- VS Code Extensions (Live Server, etc.)
+- Reminder about practice app
+- Lesson [002](./src/002/ReadMe.md) as homework
+- Today's Lesson(s)
+  - Start with [003](./src/003/ReadMe.md) (and [its LOGs](./src/003/LOGs.md))
+  - Get at least part-way through [004](./src/004/ReadMe.md)
+- In-Class #1 (**for marks**)
+
 <!--
 
 > ***NOTE:** Backfill for previous classes...*
