@@ -4,6 +4,16 @@
 
 ----
 
+## Sep 5
+
+- Course Introduction
+- GitHub Account Setup
+- *To be backfilled...*
+
+## Sep 7
+
+- *To be backfilled...*
+
 ## Sep 11
 
 - VS Code Extensions (Live Server, etc.)
