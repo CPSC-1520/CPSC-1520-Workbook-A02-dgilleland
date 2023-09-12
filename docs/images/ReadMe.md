@@ -9,7 +9,7 @@
 | **Horrors of JavaCrypt** | [O RLY Cover Generator](https://dev.to/rly) | ![](TheHorrorsOfJavaCrypt.png) |
 | **Horrors of JavaCrypt 2** | [O RLY Cover Generator](https://dev.to/rly) | ![](TheHorrorsOfJavaCrypt2.png) |
 | **Draw an Owl meme**  | [https://ifunny.co/picture/how-to-draw-an-owl-how-to-draw-an-owl-37E5R5TE9](https://ifunny.co/picture/how-to-draw-an-owl-how-to-draw-an-owl-37E5R5TE9) (with adaptations) | ![](./draw-owl-meme.jpg) 
-
+| **How to Draw an Owl** | [How to Draw an Owl for Kids](https://howtodrawforkids.com/wp-content/uploads/2021/10/how-to-draw-an-owl-for-kids.jpg) | ![](./how-to-draw-an-owl-for-kids.jpg) |
 
 
 ----
