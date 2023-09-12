@@ -6,6 +6,8 @@
 ## Schedule
 
 > The following schedule is subject to change. Consult the course outline for the mark distribution. See the [Agenda](./Agenda.md) for details on upcoming and completed topics.
+>
+> **Also Note:** There is a new document regarding the [**Reading Assignments for *Moodle Quizzes***](./docs/ReadingAssessments.md). Also note the schedule for the quizzes, as access to the quizzes may be cut off once we are past the due date for the quiz.
 
 ```mermaid
 gantt
