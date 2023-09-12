@@ -2,6 +2,7 @@
 
 > These are my notes on what I plan to teach in each upcoming class. For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
 
+
 ----
 
 ## Sep 5
@@ -19,10 +20,36 @@
 - [x] VS Code Extensions (Live Server, etc.)
 - [x] Complete practice app
 - [ ] Lesson [002](./src/002/ReadMe.md) as homework
+
+## Sep 12
+
+- [ ] In-Class #1 (**for marks**)
 - [ ] Today's Lesson(s)
   - Start with [003](./src/003/ReadMe.md) (and [its LOGs](./src/003/LOGs.md))
-  - Get at least part-way through [004](./src/004/ReadMe.md)
-- [ ] In-Class #1 (**for marks**)
+    - LiveServer
+    - Browser Dev Tools
+  - Complete [004](./src/004/ReadMe.md) (and review [its LOGs](./src/004/LOGs.md))
+    - HTML & Emmet in VS Code
+    - Link a JavaScript file
+  - Begin [005](./src/005/ReadMe.md)
+    - Review [its LOGs](./src/003/LOGs.md)
+    - Variables, operators, math
+- [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
+
+## Sep 14
+
+- [ ] Today's Lesson(s)
+  - [**006**](./src/006/ReadMe.md) - Intro to Functions in JavaScript
+  - [**007**](./src/007/ReadMe.md) - Creating JavaScript Functions
+
+## Sep 18
+
+- [ ] Today's Lesson(s)
+  - [**008**](./src/008/ReadMe.md) - Form Input and Handling Events
+- **Homework:**
+  - [**009**](./src/009/ReadMe.md) - Waiting for the DOM
+
+
 
 <!--
 

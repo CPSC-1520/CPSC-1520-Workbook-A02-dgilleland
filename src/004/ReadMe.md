@@ -4,7 +4,6 @@ The following is a short-list of the topics covered in this demo.
 
 - console.log, src, src + async + defer, "inline" script
 - live server
-- variable declarations, types, math
 
 ----
 

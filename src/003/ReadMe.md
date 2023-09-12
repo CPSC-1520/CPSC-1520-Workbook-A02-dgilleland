@@ -37,7 +37,7 @@ Before beginning this walkthrough, you should know how to take screenshots. One 
 
 ## Practice
 
-Work on the [practice exercise](./practice/ReadMe.md) for this demo. When you are done, make notes in your journal about what you learned. Also, make note of any questions you may have about the material presented and practice exercise.
+Work on the [practice exercise](./practice/ReadMe.md) for this demo. When you are done, make notes in your journal about what you learned. Also, make note of any questions you may have about the material presented and/or the practice exercise.
 
 ----
 

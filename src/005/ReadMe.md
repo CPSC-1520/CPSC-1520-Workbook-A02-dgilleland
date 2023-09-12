@@ -1,5 +1,9 @@
 # Handling Information ![Code](https://img.shields.io/badge/Code%20Status-Walkthrough-blueviolet?logo=Visual%20Studio%20Code&labelColor=indigo)
 
+The following is a short-list of the topics covered in this demo.
+
+- variable declarations, types, math
+
 > - [ ] TODO: Review/update instructions in student starterkit.
 
 ## REPL in your Browser
@@ -93,5 +97,5 @@ In that file, generate examples that demonstrate each of the items in the [Learn
 
 > One of the ways we are wired to learn is by play. I encourage you to apply what we're learning in our classes to something that personally interests you!
 
-Create a folder at the root of your repository called **`sandbox`** and use it as a place to experiment. Do you have a favorite web page you made in a previous course? See what you can do to add interactions using JavaScript! Is there something you learned in class that interested you? Turn what you learned into its own web page as a summary lesson!
+If you don't already have one, create a folder at the root of your repository called **`sandbox`** and use it as a place to experiment. Do you have a favorite web page you made in a previous course? See what you can do to add interactions using JavaScript! Is there something you learned in class that interested you? Turn what you learned into its own web page as a summary lesson!
 
