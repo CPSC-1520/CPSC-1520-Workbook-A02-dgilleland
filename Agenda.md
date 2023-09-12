@@ -23,24 +23,24 @@
 
 ## Sep 12
 
-- [ ] In-Class #1 (**for marks**)
-- [ ] Today's Lesson(s)
+- [x] In-Class #1 (**for marks**)
+- [x] Today's Lesson(s)
   - Start with [003](./src/003/ReadMe.md) (and [its LOGs](./src/003/LOGs.md))
     - LiveServer
     - Browser Dev Tools
   - Complete [004](./src/004/ReadMe.md) (and review [its LOGs](./src/004/LOGs.md))
     - HTML & Emmet in VS Code
     - Link a JavaScript file
-  - Begin [005](./src/005/ReadMe.md)
-    - Review [its LOGs](./src/003/LOGs.md)
-    - Variables, operators, math
-- [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
 
 ## Sep 14
 
 - [ ] Today's Lesson(s)
+  - Begin [005](./src/005/ReadMe.md)
+    - Review [its LOGs](./src/003/LOGs.md)
+    - Variables, operators, math
   - [**006**](./src/006/ReadMe.md) - Intro to Functions in JavaScript
   - [**007**](./src/007/ReadMe.md) - Creating JavaScript Functions
+- [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
 
 ## Sep 18
 

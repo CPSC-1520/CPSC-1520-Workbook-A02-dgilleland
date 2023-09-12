@@ -2,20 +2,20 @@
 
 *At the end of this lesson, you should be able to...*
 
-- [ ] Access the developer tools in the Chrome browser
-- [ ] Describe what is meant by a "case-sensitive" programming language
-- [ ] Describe the terms "keyword", "operator", "variable" and "grammar" as they relate to programming languages in general
-- [ ] Define the acronym DOM
-- [ ] Define the acronym API
-- [ ] Describe the purpose of the `document` object
-- [ ] Describe what the DOM API provides to JavaScript in the browser
-- [ ] Demonstrate basic DOM selector methods
-- [ ] Describe the terms "object", "property" and "method" as they relate to JavaScript
-- [ ] Describe the purpose of the "Member Access Operator" (`.`) in JavaScript
-- [ ] Demonstrate how to use the `.innerHTML` property of `HTMLElement` objects, including how to modify the DOM structure using this property
-- [ ] Execute simple JavaScript statements in the console
-- [ ] Demonstrate how to declare variables in the developer tools console
-- [ ] Demonstrate how to assign values to variables in the developer tools console
+- [x] Access the developer tools in the Chrome browser
+- [x] Describe what is meant by a "case-sensitive" programming language
+- [x] Describe the terms "keyword", "operator", "variable" and "grammar" as they relate to programming languages in general
+- [x] Define the acronym DOM
+- [x] Define the acronym API
+- [x] Describe the purpose of the `document` object
+- [x] Describe what the DOM API provides to JavaScript in the browser
+- [x] Demonstrate basic DOM selector methods
+- [x] Describe the terms "object", "property" and "method" as they relate to JavaScript
+- [x] Describe the purpose of the "Member Access Operator" (`.`) in JavaScript
+- [x] Demonstrate how to use the `.innerHTML` property of `HTMLElement` objects, including how to modify the DOM structure using this property
+- [x] Execute simple JavaScript statements in the console
+- [x] Demonstrate how to declare variables in the developer tools console
+- [x] Demonstrate how to assign values to variables in the developer tools console
 
 
 ----
