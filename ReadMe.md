@@ -33,7 +33,7 @@ gantt
 
     section In-Class Labs/Exercises
     Lab 1, Sep 12  :     milestone, 2023-09-12, 0d
-    Lab 2, Sep 14  :     milestone, 2023-09-14, 0d
+    Lab 2, Sep 18  :     milestone, 2023-09-18, 0d
     Lab 3, Sep 21  :     milestone, 2023-09-21, 0d
     Lab 4, Sep 28  :     milestone, 2023-09-28, 0d
     Lab 5, Oct 12  :     milestone, 2023-10-12, 0d
