@@ -42,7 +42,7 @@ gantt
     Lab 8, Dec 14  :     milestone, 2023-12-14, 0d
 
     section Quizzes
-    Quiz 1, Sep 14 :  milestone, 2023-09-14, 0d
+    Quiz 1, Sep 19 :  milestone, 2023-09-19, 0d
     Quiz 2, Sep 28 :  milestone, 2023-09-28, 0d
     Quiz 3, Oct 19 :  milestone, 2023-10-19, 0d
     Quiz 4, Nov 16 :  milestone, 2023-11-16, 0d
