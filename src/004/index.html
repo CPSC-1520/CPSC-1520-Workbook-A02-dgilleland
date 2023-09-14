@@ -6,6 +6,7 @@
     <title>Lesson 004</title>
     <script src="first.js"></script>
     <script src="second.js" type="module" defer></script>
+    <script src="learn.js" defer></script>
 </head>
 <body>
     <h1>Emmet for HTML/JS/CSS</h1>
@@ -14,6 +15,14 @@
         <li>Item 2</li>
         <li>Item 3</li>
     </ul>
+    <script>
+        console.log('Hello from inline script');
+        var liTags = document.querySelectorAll('li');
+        console.log('liTag count:', liTags.length);
+
+        var pTags = document.querySelectorAll('p');
+        console.log('pTag count:', pTags.length);
+    </script>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam veritatis ut alias iusto nostrum rerum cum nisi, dolore deserunt sed adipisci necessitatibus amet quas consequatur? Obcaecati ut aut delectus modi.</p>
     <p>Obcaecati sit numquam delectus odio atque vitae temporibus fugit ex aliquid quos quas consectetur libero beatae, officiis ipsam voluptatem distinctio itaque accusantium nesciunt quis quae nihil adipisci. Dolorum, sapiente aliquid.</p>
     <p>Amet fuga quo ducimus laboriosam, aut provident nostrum recusandae ad, accusamus molestias id ex dolores a optio quidem hic. Aliquid explicabo facilis facere! Pariatur vero, eveniet explicabo aliquam alias placeat.</p>
