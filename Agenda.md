@@ -34,7 +34,8 @@
 
 ## Sep 14
 
-- [ ] Today's Lesson(s)
+- [ ] In-Class Lab 1 *Solution*
+- [ ] **Today's Lesson(s)**
   - Begin [005](./src/005/ReadMe.md)
     - Review [its LOGs](./src/003/LOGs.md)
     - Variables, operators, math
