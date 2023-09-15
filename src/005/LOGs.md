@@ -2,9 +2,9 @@
 
 *At the end of this lesson, you should be able to...*
 
-- [ ] Distinguish between primitive data types and object data types in JavaScript
-- [ ] List the primitive data types built-in to JavaScript
-- [ ] Distinguish between the `var`, `let`, and `const` keywords
+- [x] Distinguish between primitive data types and object data types in JavaScript
+- [x] List the primitive data types built-in to JavaScript
+- [x] Distinguish between the `var`, `let`, and `const` keywords
 - [ ] Describe what is meant by the term "Temporal dead zone" (TDZ)
 - [ ] Describe what is meant by "literal values" in code
 - [ ] Describe the purpose of the `typeof` operator

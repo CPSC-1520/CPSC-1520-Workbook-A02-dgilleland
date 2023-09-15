@@ -34,23 +34,48 @@
 
 ## Sep 14
 
-- [ ] In-Class Lab 1 *Solution*
-- [ ] **Today's Lesson(s)**
+- [x] In-Class Lab 1 *Solution*
+- [x] **Today's Lesson(s)**
+  - Complete [004](./src/004/ReadMe.md) (and review [its LOGs](./src/004/LOGs.md))
+    - HTML & Emmet in VS Code
+    - Link a JavaScript file
   - Begin [005](./src/005/ReadMe.md)
-    - Review [its LOGs](./src/003/LOGs.md)
-    - Variables, operators, math
-  - [**006**](./src/006/ReadMe.md) - Intro to Functions in JavaScript
-  - [**007**](./src/007/ReadMe.md) - Creating JavaScript Functions
-- [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
+    - Review [its LOGs](./src/005/LOGs.md)
 
 ## Sep 18
 
 - [ ] Today's Lesson(s)
+  - [Resume](./src/005/main.js) and Complete [005](./src/005/ReadMe.md)
+    - Review [its LOGs](./src/005/LOGs.md)
+    - Variables, operators, math
+  - [**006**](./src/006/ReadMe.md) - Intro to Functions in JavaScript
+    - Review [its LOGs](./src/006/LOGs.md)
+  - [**007**](./src/007/ReadMe.md) - Creating JavaScript Functions
+    - Review [its LOGs](./src/007/LOGs.md)
   - [**008**](./src/008/ReadMe.md) - Form Input and Handling Events
+    - Review [its LOGs](./src/008/LOGs.md)
+- [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
 - **Homework:**
   - [**009**](./src/009/ReadMe.md) - Waiting for the DOM
 
+----
 
+## Instructor TODO:
+
+- **LOGs/Lessons**
+  - [ ] 009
+  - [ ] 010
+  - [ ] 011
+  - [ ] 012
+  - [ ] 013
+  - [ ] 014
+  - [ ] 015
+  - [ ] 016
+  - [ ] 017
+  - [ ] 018
+  - [ ] 019
+  - [ ] 020
+  - [ ] 021
 
 <!--
 

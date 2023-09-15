@@ -9,11 +9,11 @@ This **`src`** folder is where you will place practice and demo material for eac
 ## Starter Kits
 
 1. Version Control and Markdown (*Week 0*)
-   - [**001 - Start Here**](./001-StartHere/ReadMe.md) - Markdown & git
-   - [**002**](./002/ReadMe.md) - More Markdown
+   - [x] [**001 - Start Here**](./001-StartHere/ReadMe.md) - Markdown & git
+   - [x] [**002**](./002/ReadMe.md) - More Markdown
 1. Introduction to JavaScript (*Week 1*)
-   - [**003**](./003/ReadMe.md) - JavaScript in the Browser
-   - [**004**](./004/ReadMe.md) - JavaScript in your Web Page
+   - [x] [**003**](./003/ReadMe.md) - JavaScript in the Browser
+   - [x] [**004**](./004/ReadMe.md) - JavaScript in your Web Page
    - [**005**](./005/ReadMe.md) - JavaScript Variables
 1. Functions and Events (*Weeks 2 & 3*)
    - [**006**](./006/ReadMe.md) - Intro to Functions in JavaScript
