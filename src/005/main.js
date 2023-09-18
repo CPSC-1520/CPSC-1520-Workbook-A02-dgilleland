@@ -31,6 +31,18 @@ console.log('myString is a:', typeof myString);
 //     - `let` is used to declare a variable that is in the block scope
 //     - `const` is used to declare a variable whose value cannot be changed
 // - [ ] Describe what is meant by the term "Temporal dead zone" (TDZ)
+//console.log('before variable declaration', studentName);
+// Initializing a variable is declaring it and assigning it a value
+// in the same statement.
+let studentName = "Stew Dent";
+console.log('after variable initialization', studentName);
+
+//console.log('before variable declaration', grade);
+let grade;
+console.log('after variable declaration', grade);
+grade = 85;
+console.log('after variable assignment', grade);
+
 // - [ ] Describe what is meant by "literal values" in code
 // - [ ] Describe the purpose of the `typeof` operator
 // - [ ] Describe what is meant by the statement "JavaScript is a loosely typed language"
