@@ -58,24 +58,41 @@
 - **Homework:**
   - [**009**](./src/009/ReadMe.md) - Waiting for the DOM
 
+
+
+
 ----
 
 ## Instructor TODO:
 
 - **LOGs/Lessons**
-  - [ ] 009
-  - [ ] 010
-  - [ ] 011
-  - [ ] 012
-  - [ ] 013
-  - [ ] 014
-  - [ ] 015
-  - [ ] 016
-  - [ ] 017
-  - [ ] 018
-  - [ ] 019
-  - [ ] 020
-  - [ ] 021
+  - [ ] [**009**](./009/ReadMe.md) - Waiting for the DOM
+  - [ ] [**010**](./010/ReadMe.md) - Debugging JavaScript
+  - [ ] [**011**](./011/ReadMe.md) - Organizing Functions in JavaScript
+1. Making Decisions (*Week 4*)
+  - [ ] [**012**](./012/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. Loops and Arrays (*Weeks 5 & 6*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. JS Objects (*Weeks 7 & 8*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. Fetch Fundamentals (*Week 9*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. DOM API & Timers (*Week 10*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. NPM, Tools, ES Modules (*Weeks 11 & 12*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. Class, Object, Prototypes (*Weeks 13 & 14*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
+1. Extra Topics (*Week 15*)
+  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./01/ReadMe.md)
 
 <!--
 

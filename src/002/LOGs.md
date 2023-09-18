@@ -1,4 +1,4 @@
-# More Markdown - [ ] Keeping Organized (LOGs)
+# More Markdown + Keeping Organized (LOGs)
 
 *At the end of this lesson, you should be able to...*
 

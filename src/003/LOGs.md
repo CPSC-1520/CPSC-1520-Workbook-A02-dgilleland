@@ -3,6 +3,8 @@
 *At the end of this lesson, you should be able to...*
 
 - [x] Access the developer tools in the Chrome browser
+- [x] Explain what is meant by stating that the Console tab in the browser's developer tools is a "REPL"
+  - A REPL is a Read-Evaluate-Print-Loop. It is a programming environment that allows you to enter code, have it executed, and see the results immediately. The console in the browser's developer tools is a REPL in that we can enter JavaScript code, have it executed, and see the results immediately.
 - [x] Describe what is meant by a "case-sensitive" programming language
 - [x] Describe the terms "keyword", "operator", "variable" and "grammar" as they relate to programming languages in general
 - [x] Define the acronym DOM
