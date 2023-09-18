@@ -65,32 +65,34 @@
 - [x] Describe the purpose of the `+` operator in JavaScript
   - In math, it allow us to do arithmatic
   - With text, it allows us to do concatenation
-- [ ] Define the term **concatenation**
+- [x] Define the term **concatenation**
   - "Combining" or "joining" text
-- [ ] Construct strings using concatenation of string literals and variables
-- [ ] Describe two ways to concatenate strings in JavaScript
+- [x] Construct strings using concatenation of string literals and variables
+- [x] Describe two ways to concatenate strings in JavaScript
   - We can use the plus operator (`+`) to concatenate strings. For example, `"Hello " + "World"` returns `"Hello World"`. A variation on that is to use the `+=` operator.
   - We can use the `concat()` method of the `String` object to concatenate strings. For example, `"Hello ".concat("World")` returns `"Hello World"`.
   - We can also template strings to concatenate strings. For example, `` `Hello ${name}` `` returns `"Hello Stew Dent"` (assuming that the variable `name` holds the value `"Stew Dent"`).
-- [ ] List the arithmetic operators used with numbers in JavaScript
+- [x] List the arithmetic operators used with numbers in JavaScript
   - Standard ones: `+`, `-`, `*`, `/`, `%`
   - Combine with assignment: `+=`, `-=`, `*=`, `/=`, `%=`
-- [ ] Explain how JavaScript's `Number` type is different from other languages such as C# or Java.
-- [ ] Explain what is meant by an "expression" in JavaScript
+- [x] Explain how JavaScript's `Number` type is different from other languages such as C# or Java.
+- [x] Explain what is meant by an "expression" in JavaScript
   - They are incomplete in and of themselves, and only have executable meaning when placed as part of a programming statement.
-- [ ] Describe the effects of "implicit conversion" on expressions that mix numbers and strings
-- [ ] Describe how to use "explicit conversion" to convert strings to numbers
+- [x] Describe the effects of "implicit conversion" on expressions that mix numbers and strings
+- [x] Describe how to use "explicit conversion" to convert strings to numbers
   - Use the `.toString()` method of the variable
-- [ ] Describe how to use "explicit conversion" to convert numbers to strings
+- [x] Describe how to use "explicit conversion" to convert numbers to strings
   - You can use `parseInt(varName)` or `parseFloat(varName)`
 - [ ] List five common members of the `Math` object
-- [ ] List the various assignment operators in JavaScript
+  - [ ] TODO by student
+- [x] List the various assignment operators in JavaScript
   - `=` and the ones that combine with standard arithmetic operators (e.g.: `+=`)
 - [ ] Explain the difference between the `++` and `--` operators when used as a prefix vs postfix on a variable
-- [ ] Explain why the increment and decrement operators cannot be used on literal numbers
+  - [ ] TODO by student
+- [x] Explain why the increment and decrement operators cannot be used on literal numbers
   - literal values are immutable (they cannot change)
-- [ ] Distinguish between the special JavaScript values of `null`, `undefined`, `NaN`, and `Infinity`
-- [ ] Distinguish between the technical notions of "primitive types" and "primitive values" in JavaScript
+- [x] Distinguish between the special JavaScript values of `null`, `undefined`, `NaN`, and `Infinity`
+- [x] Distinguish between the technical notions of "primitive types" and "primitive values" in JavaScript
   - > In JavaScript, a **primitive** (primitive value, primitive data type) is data that is not an object and has no methods or properties. There are **seven primitive data types**: `string`, `number`, `bigint`, `boolean`, `undefined`, `symbol`, and `null`.
   - >
   - > Primitive values are **immutable**; that is, they cannot be altered. When we assign a primitive type to a variable, we are copying that value to the new variable. Therefore, primitive types are "copied by value".
