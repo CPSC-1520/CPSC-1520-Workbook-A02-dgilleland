@@ -182,3 +182,4 @@
 - [ ] Identify and describe the HTML elements used for user input: `<form>`, `<input>`, `<button>`, `<label>`, `<select>`, `<option>`, `<textarea>`
 - [ ] Identify and describe the various types for the `<input>` element: `text`, `password`, `checkbox`, `radio`, `submit`, `reset`, `button`, `color`, `date`, `datetime-local`, `email`, `file`, `hidden`, `image`, `month`, `number`, `range`, `search`, `tel`, `time`, `url`, `week`
 - [ ] Explain the purpose of the new `<dialog>` element and how to interact with it in JavaScript
+
