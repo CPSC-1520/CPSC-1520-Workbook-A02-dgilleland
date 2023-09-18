@@ -3,6 +3,7 @@
 *At the end of this lesson, you should be able to...*
 
 - [ ] Identify and distinguish the various ways to declare a function
+  - *See this [Chat GPT discussion](https://chat.openai.com/share/da57cfba-9ece-4c5d-a48b-66e374211c9c) for an explanation.*
 - [ ] Describe the essential parts of a function declaration
 - [ ] Describe what is meant by a **function signature**
 - [ ] Describe what is meant by the term **function body**
