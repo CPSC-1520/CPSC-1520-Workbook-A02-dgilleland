@@ -8,3 +8,11 @@
 
 	Use the skills you have learned up to this point.
 */
+
+let disclosing = prompt('Enter the name of the disclosing party');
+let receiving = prompt('Enter the name of the receiving party');
+let date = prompt('Enter the date');
+
+document.querySelector('.disclosing-party').innerText = disclosing;
+document.querySelector('.receiving-party').innerText = receiving;
+document.querySelector('.date').innerText = date;
