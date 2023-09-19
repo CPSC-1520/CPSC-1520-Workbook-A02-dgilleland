@@ -4,6 +4,7 @@
 
 - [ ] Identify and describe the various types of scope in JavaScript
 - [ ] Explain why it is important to avoid "polluting the global scope"
+- [ ] Explain how functions provide one mechanism to avoid polluting the global scope
 - [ ] Define the term **function** in JavaScript
 - [ ] Identify various built-in functions
 - [ ] Use the built-in `alert()` and `prompt()` functions to interact with the user
