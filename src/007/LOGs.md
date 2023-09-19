@@ -17,11 +17,14 @@
 - [ ] Describe how local scope "hides" a variable declared inside a function
 - [ ] Define the term **lifetime**
 - [ ] Distinguish between the lifetime of a variable and the scope of a variable
+  - The difference between the lifetime of a variable and the scope of a variable is that the lifetime of a variable is how long it exists in memory, whereas the scope of a variable is where it can be accessed in the code.
 - [ ] Discuss some of the peculiarities of calling functions in JavaScript as compared to other languages such as C#
 - [ ] Create functions that return a value
 - [ ] Create functions that don't return a value
 - [ ] Display a function in the developer tool's console window
 - [ ] Explain the concept of "hoisting" in JavaScript
 - [ ] Explain the benefits of declaring functions as constants in JavaScript
+  - When you make your variable a constant (as in `const myFunction = function() { ... }`), you are making it read-only. This means that you can't accidentally overwrite it later in your code.
 - [ ] Describe what is meant by the term "refactoring"
+  - Taking code that already works and "cleaning it up" to make it more readable, more efficient, and/or more maintainable. This does not change the functionality of the code (it should still do the same job).
 
