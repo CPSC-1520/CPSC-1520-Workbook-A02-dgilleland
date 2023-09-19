@@ -5,7 +5,9 @@
 - [ ] Identify and distinguish the various ways to declare a function
   - *See this [Chat GPT discussion](https://chat.openai.com/share/da57cfba-9ece-4c5d-a48b-66e374211c9c) for an explanation.*
 - [ ] Describe the essential parts of a function declaration
+  - A function declaration must have a parameter list (even if it is empty) and a function body (even if it is empty). The other parts will depend on the way the function is being declared.
 - [ ] Describe what is meant by a **function signature**
+  - Typically, a function signature is the combination of the name of the function and its parameter list.
 - [ ] Describe what is meant by the term **function body**
 - [ ] Define the term **block-statement**
 - [ ] Define the term **parameter**

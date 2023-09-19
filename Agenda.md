@@ -48,6 +48,9 @@
   - [Resume](./src/005/main.js) and Complete [005](./src/005/ReadMe.md)
     - Review [its LOGs](./src/005/LOGs.md)
     - Variables, operators, math
+
+## Sep 19
+
   - [**006**](./src/006/ReadMe.md) - Intro to Functions in JavaScript
     - Review [its LOGs](./src/006/LOGs.md)
   - [**007**](./src/007/ReadMe.md) - Creating JavaScript Functions
@@ -55,9 +58,27 @@
   - [**008**](./src/008/ReadMe.md) - Form Input and Handling Events
     - Review [its LOGs](./src/008/LOGs.md)
 - [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
+
+## Sep 21
+
+> *Complete any topics from Sep 19 that were not covered...*
+
+----
+
+![Here be dragons](./docs/images/here-be-dragons.png)
+
+----
+
+
+## Sep 25
+
+- [ ] Today's Lesson
+  - [**012**](./src/012/ReadMe.md) - Making Decisions
+    - Review [its LOGs](./src/012/LOGs.md)
 - **Homework:**
   - [**009**](./src/009/ReadMe.md) - Waiting for the DOM
-
+  - [**010**](./src/010/ReadMe.md) - Debugging JavaScript
+  - [**011**](./src/011/ReadMe.md) - Organizing Functions in JavaScript
 
 
 
