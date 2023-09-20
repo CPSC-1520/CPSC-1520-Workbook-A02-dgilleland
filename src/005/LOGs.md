@@ -20,7 +20,7 @@
     - `array`
     - `date`
     - `regexp` - Regular Expression
-- [x] Distinguish between the `var`, `let`, and `const` keywords
+- [x] Distinguish between the [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var), [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let), and [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const) statements
 - [ ] What is the difference between the `null` value and the `undefined` value?
   - The `null` value is a special value that indicates that a variable has no value.
   - The `undefined` value is a special value that indicates that a variable has not been initialized.
@@ -43,6 +43,13 @@
 
 - [x] Describe what is meant by "literal values" in code
   - A literal value is a value that is written directly into the code. It is not stored in a variable or computed in any way.
+- [ ] List several examples of literal values in JavaScript
+  - `42`
+  - `"Hello World"`
+  - `true`
+  - `false`
+  - `null`
+  - `undefined`
 - [x] Describe the purpose of the `typeof` operator
   - The `typeof` operator returns a string that indicates the type of the operand. For example, `typeof 42` returns `"number"`.
 - [x] Describe what is meant by the statement "JavaScript is a loosely typed language"
@@ -78,6 +85,7 @@
 - [x] Explain how JavaScript's `Number` type is different from other languages such as C# or Java.
 - [x] Explain what is meant by an "expression" in JavaScript
   - They are incomplete in and of themselves, and only have executable meaning when placed as part of a programming statement.
+- [ ] Categorize [expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators) in JavaScript
 - [x] Describe the effects of "implicit conversion" on expressions that mix numbers and strings
 - [x] Describe how to use "explicit conversion" to convert strings to numbers
   - Use the `.toString()` method of the variable

@@ -9,7 +9,7 @@
 - [ ] Describe what is meant by a **function signature**
   - Typically, a function signature is the combination of the name of the function and its parameter list.
 - [ ] Describe what is meant by the term **function body**
-- [ ] Define the term **block-statement**
+- [ ] Define the term [**Block-statement**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
 - [ ] Define the term **parameter**
 - [ ] Define the term **argument**
 - [ ] Define the term **scope**
