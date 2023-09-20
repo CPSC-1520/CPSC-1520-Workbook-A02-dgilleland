@@ -183,7 +183,153 @@
 - [ ] Identify and describe the various types for the `<input>` element: `text`, `password`, `checkbox`, `radio`, `submit`, `reset`, `button`, `color`, `date`, `datetime-local`, `email`, `file`, `hidden`, `image`, `month`, `number`, `range`, `search`, `tel`, `time`, `url`, `week`
 - [ ] Explain the purpose of the new `<dialog>` element and how to interact with it in JavaScript
 
+----
 
+# WIP - Work In Progress
+
+![](./../images/here-be-dragons.png)
+
+## Making Decisions
+
+*At the end of this topic, you should be able to...*
+
+- Define the term "truthiness" as it relates to JavaScript
+- Describe the general syntax of if-else statements in JavaScript
+- Compare and contrast the `===` and `!==` operators with the `==` and `!=` operators
+- List and describe the purpose of the relational and equality operators in JavaScript
+- [ ] Describe what is meant by a "conditional expression"
+- [ ] List the operator precedence for mixing logical, arithmetic, and relational operations
+- [ ] List the relational operators
+- [ ] List the logical operators
+- [ ] Use relational, logical, and arithmetic operators to construct conditional expressions
+- [ ] Demonstrate an understanding of operator precedence in conditional expressions
+- [ ] Use statement blocks to allow nesting program statements into control structures
+- [ ] Define the term "boundary condition" as it relates to if-else statements and testing
+- [ ] Describe the syntax of the switch statement
+
+----
+
+## Loops and Arrays
+
+- [ ] Identify the C# statements that correspond to Do-While and Do-Until logical structures
+- [ ] Translate Do-While structures into code
+- [ ] Translate Do-Until structures into code
+- [ ] Identify and distinguish the parts of the for statement in code
+- [ ] Describe the common situations in which the for statement is used
+- [ ] Demonstrate how the various looping statements can be interchanged with slight alterations of the logical structures to maintain the overall logic of a given routine.
+- [ ] Identify the parts of the foreach statement
+
+----
+
+## JS Objects Fundamentals
+
+----
+
+## Fetch Fundamentals
+
+----
+
+## Dom API & Timers
+
+----
+
+## NPM, Tools, ES Modules
+
+----
+
+## Class, Object, Prototypes
+
+----
+
+## Extra Topics
+
+> (Optional if you have time)
+
+----
+
+## Appendix
+
+### HTML Elements
+
+The most common elements in the `<head>` of an HTML document are:
+
+- `<title>` - Used to set the title of the document
+- `<meta>` - Used to set metadata about the document
+- `<link>` - Used to link to external resources
+- `<style>` - Used to define CSS styles
+- `<script>` - Used to define JavaScript code
+- `<base>` - Used to set the base URL for relative URLs
+
+The most common elements in the `<body>` of an HTML document are:
+
+- `<div>` - Used to group elements together
+- `<span>` - Used to group inline elements together
+- `<p>` - Used to create a paragraph of text
+- `<h1>` through `<h6>` - Used to create headings
+- `<a>` - Used to create hyperlinks
+- `<img>` - Used to display images
+- `<ul>` - Used to create unordered lists
+- `<ol>` - Used to create ordered lists
+- `<li>` - Used to create list items
+- `<table>` - Used to create tables
+- `<tr>` - Used to create table rows
+- `<td>` - Used to create table cells
+- `<th>` - Used to create table headers
+- `<form>` - Used to create forms
+- `<input>` - Used to create form inputs
+- `<button>` - Used to create buttons
+- `<label>` - Used to create labels for form inputs
+- `<select>` - Used to create dropdown lists
+- `<option>` - Used to create options for dropdown lists
+- `<textarea>` - Used to create textareas for multi-line input
+- `<iframe>` - Used to create iframes
+- `<audio>` - Used to create audio players
+- `<video>` - Used to create video players
+- `<canvas>` - Used to create canvas elements
+- `<script>` - Used to include JavaScript files
+- `<style>` - Used to include CSS files
+- `<link>` - Used to include CSS files
+- `<meta>` - Used to include metadata
+- `<header>` - Used to create a header
+- `<footer>` 
+- `<nav>`
+- `<section>`
+- `<article>`
+- `<aside>`
+- `<main>`
+- `<figure>`
+- `<figcaption>`
+- `<summary>`
+- `<details>`
+- `<blockquote>`
+- `<q>`
+- `<cite>`
+- `<abbr>`
+- `<address>`
+- `<time>`
+- `<mark>`
+  - Note: This list is not exhaustive. There are many more elements that are not listed here.
+
+
+### Archive - Old Learning Outcomes
+
+> :warning: **Warning:** The links are probably broken here....
+
+1. [**Developer Tools Console**](../../src/demos/w01/LOGs.md)
+1. [**Working with Functions**](../../src/demos/w02/LOGs.md)
+1. [**Working with Events**](../../src/demos/w03/LOGs.md)
+1. [**Conditions and Decisions**](../../src/demos/w04/LOGs.md)
+1. [**More Decisions and Forms**](../../src/demos/w05/LOGs.md)
+1. [**Assignment 1**](../../src/demos/w06/LOGs.md)
+1. [**Working with Loops and NodeLists**](../../src/demos/w07/LOGs.md)
+1. [**Working with Arrays**](../../src/demos/w08/LOGs.md)
+1. [**Assignment 2**](../../src/demos/w09/LOGs.md)
+1. [**Working with Timers**](../../src/demos/w10/LOGs.md)
+1. [**DOM Manipulation**](../../src/demos/w11/LOGs.md)
+1. [**Assignment 3**](../../src/demos/w12/LOGs.md)
+1. [**HTTP Basics**](../../src/demos/w13/LOGs.md)
+1. [**Assignment 4**](../../src/demos/w14/LOGs.md)
+1. [**JS Libraries [jQuery]**](../../src/demos/w15/LOGs.md)
 
 ----
 
