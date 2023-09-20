@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+}
+
+.feature.description {
+	font-style: italic;
+}
+
+.hidden {
+	display: none;
+}
+
+.purple {
+	color: purple;
+}

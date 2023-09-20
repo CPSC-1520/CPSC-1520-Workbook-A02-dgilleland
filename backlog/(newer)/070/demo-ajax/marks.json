@@ -1,0 +1,23 @@
+{
+    "Student": "Stewart Dent",
+    "Marks": [
+        { "Name": "In-Class 1", "Weight": 5, "Earned": 4},
+        { "Name": "In-Class 2", "Weight": 2.5, "Earned": 2},
+        { "Name": "In-Class 3", "Weight": 2.5, "Earned": 2.5},
+        { "Name": "In-Class 4", "Weight": 5, "Earned": 3},
+        { "Name": "In-Class 5", "Weight": 5, "Earned": 2},
+        { "Name": "In-Class 6", "Weight": 2.5},
+        { "Name": "In-Class 7", "Weight": 2.5},
+        { "Name": "In-Class 8", "Weight": 5},
+        { "Name": "Lab 1", "Weight": 10, "Earned": 8},
+        { "Name": "Lab 2", "Weight": 10, "Earned": 7.5},
+        { "Name": "Lab 3", "Weight": 10, "Earned": 5},
+        { "Name": "Lab 4", "Weight": 10},
+        { "Name": "Quiz 1", "Weight": 5, "Earned": 2},
+        { "Name": "Quiz 2", "Weight": 5, "Earned": 3},
+        { "Name": "Quiz 3", "Weight": 5, "Earned": 4},
+        { "Name": "Quiz 4", "Weight": 5, "Earned": 3},
+        { "Name": "Quiz 5", "Weight": 5},
+        { "Name": "Quiz 6", "Weight": 5}
+    ]    
+}

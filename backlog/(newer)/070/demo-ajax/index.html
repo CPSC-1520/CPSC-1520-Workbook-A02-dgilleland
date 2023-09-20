@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Marks</title>
+    <link rel="stylesheet" href="https://unpkg.com/awsm.css/dist/awsm.min.css">
+    <script defer src="main.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Course Marks - CPSC-1520</h1>
+    </header>
+    <main>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Weight</th>
+                    <th>Earned</th>
+                </tr>
+            </thead>
+            <tbody id="evaluation-items">
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Total</th>
+                    <th id="total-weight"></th>
+                    <th id="total-earned"></th>
+                </tr>
+            </tfoot>
+        </table>
+
+        <template id="item-row">
+            <tr>
+                <td data-id="Name"></td>
+                <td data-id="Weight"></td>
+                <td data-id="Earned"></td>
+            </tr>
+        </template>
+    </main>
+    <footer></footer>
+</body>
+</html>

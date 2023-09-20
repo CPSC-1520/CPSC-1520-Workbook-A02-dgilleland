@@ -1,0 +1,53 @@
+.gameboard {
+    display: grid;
+    gap: 5px;
+    grid-auto-flow: column;
+}
+
+.gameboard > div {
+    border-radius: 5px;
+    background-color: seagreen;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    font-weight: bold;
+    color: seagreen;
+    font-size: 1.75em;
+}
+
+.gameboard > div.reveal {
+    color: seashell;
+}
+
+.words {
+    display: none;
+}
+
+form {
+    text-align: center;
+    margin: 25px;
+}
+
+input {
+    font-size: 4em;
+    width: 1ch;
+    padding: 10px;
+    margin: 10px;
+    border: thick solid green;
+    box-sizing: content-box;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    outline: none;
+}
+
+#feedback {
+    display: block;
+    font-size: 3em;
+}
+
+.correct {
+    color: seagreen;
+}
+.wrong {
+    color: darkred;
+}
