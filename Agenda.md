@@ -51,17 +51,25 @@
 
 ## Sep 19
 
+- [x] Today's Lesson(s)
   - [**006**](./src/006/ReadMe.md) - Intro to Functions in JavaScript
     - Review [its LOGs](./src/006/LOGs.md)
   - [**007**](./src/007/ReadMe.md) - Creating JavaScript Functions
     - Review [its LOGs](./src/007/LOGs.md)
-  - [**008**](./src/008/ReadMe.md) - Form Input and Handling Events
-    - Review [its LOGs](./src/008/LOGs.md)
-- [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
 ## Sep 21
 
 > *Complete any topics from Sep 19 that were not covered...*
+
+- [ ] Today's Lesson(s)
+  - [**008**](./src/008/ReadMe.md) - Form Input and Handling Events
+    - Review [its LOGs](./src/008/LOGs.md)
+    - <details><summary>Use the [demo-events](./src/008/demo-events/) as a starter</summary> *(and pull the solution from [this file](backlog\(sort-queue)\w03-events_default_behaviour\js\main.js))*</details>
+      - Demo creating an event handler
+      - Demo adding an event listener
+      - Demo **click** events, **mouse** events
+      - Demo adding and removing CSS classes programmatically (from `.classList`)
+- [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
 ----
 
