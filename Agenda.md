@@ -57,7 +57,7 @@
     - Review [its LOGs](./src/007/LOGs.md)
   - [**008**](./src/008/ReadMe.md) - Form Input and Handling Events
     - Review [its LOGs](./src/008/LOGs.md)
-- [ ] **Homework:** [Learn by Play](./src/005/ReadMe.md#learn-by-play)
+- [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
 ## Sep 21
 
