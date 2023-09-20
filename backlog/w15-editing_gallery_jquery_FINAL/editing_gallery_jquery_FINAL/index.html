@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Assignment 1 - Editing Gallery</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+	<header>
+		<h1>Tag Your Photos</h1>
+	</header>
+    <section class="gallery">
+        <nav>
+            <h1>Thumbnails</h1>
+            <ul class="thumbnails">
+                <li><img src="images/athens_thumb.png" alt="Athens" title="The Parthenon in Athens" data-tags=""></li>
+                <li><img src="images/barcelona_thumb.png" alt="Barcelona" title="Sunrise on Barcelona" data-tags=""></li>
+                <li><img src="images/lisbon_thumb.png" alt="Lisbon" title="View across Lisbon" data-tags=""></li>
+            </ul>
+        </nav>
+        <div class="editor">
+            <h2 class="title">The Parthenon in Athens</h2>
+            <img src="images/athens.png" alt="Athens" title="The Parthenon in Athens" />
+            <p class="tags"></p>
+            <form>
+                <input type="text" id="tag" name="tag" placeholder="enter your tag here" />
+                <input type="submit" value="add tag" />
+            </form>
+            <p class="error hidden"></p>
+        </div>
+    </section>
+    <script src="js/jquery-2.2.3.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
