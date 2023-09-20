@@ -67,8 +67,9 @@
     - <details><summary>Use the [demo-events](./src/008/demo-events/) as a starter</summary> *(and pull the solution from [this file](backlog\(sort-queue)\w03-events_default_behaviour\js\main.js))*</details>
       - Demo creating an event handler
       - Demo adding an event listener
-      - Demo **click** events, **mouse** events
+      - Demo **mouse** events such as `click`, `dblclick`, `mouseenter`, `mouseleave`, `mousemove`
       - Demo adding and removing CSS classes programmatically (from `.classList`)
+      - Demo an anonymous handler for an event listener
 - [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
 ----
