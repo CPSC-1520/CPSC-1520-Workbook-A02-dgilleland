@@ -79,8 +79,8 @@
   - We can use the plus operator (`+`) to concatenate strings. For example, `"Hello " + "World"` returns `"Hello World"`. A variation on that is to use the `+=` operator.
   - We can use the `concat()` method of the `String` object to concatenate strings. For example, `"Hello ".concat("World")` returns `"Hello World"`.
   - We can also template strings to concatenate strings. For example, `` `Hello ${name}` `` returns `"Hello Stew Dent"` (assuming that the variable `name` holds the value `"Stew Dent"`).
-- [x] List the arithmetic operators used with numbers in JavaScript
-  - Standard ones: `+`, `-`, `*`, `/`, `%`
+- [x] List the [arithmetic operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators) used with numbers in JavaScript
+  - Standard ones: `+`, `-`, `*`, `/`, `%`, [`**`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation)
   - Combine with assignment: `+=`, `-=`, `*=`, `/=`, `%=`
 - [x] Explain how JavaScript's `Number` type is different from other languages such as C# or Java.
 - [x] Explain what is meant by an "expression" in JavaScript
