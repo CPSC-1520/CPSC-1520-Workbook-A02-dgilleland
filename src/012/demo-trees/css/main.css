@@ -3,7 +3,13 @@ body {
 }
 
 .feature.description {
-	font-style: italic;
+	font-family: serif;
+	font-size: 1.2em;
+}
+
+.feature.description > i {
+	display: block;
+	margin-left: 2em;
 }
 
 .hidden {
