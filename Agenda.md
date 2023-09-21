@@ -77,7 +77,7 @@
 > 
 > ```bash
 > cd ./src/008  # Move to the folder where you want to put the demo
-> npx degit CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/008/demo-events
+> npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/008/demo-events ./demo-events
 > ```
 >
 > ***Note:** You may need to <kbd>ctrl</kbd>+<kbd>c</kbd> to stop the `npx degit` command after it has finished downloading the demo folder.*
