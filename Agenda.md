@@ -73,7 +73,7 @@
 - [ ] Solution for Lab 2
 - [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
-> To grab a starting point for the demo, you can use [`degit`] by Rich Harris (creator of Svelte) to grab a copy of the demo folder from my workbook:
+> To grab a starting point for the demo, you can use [`degit`](https://github.com/Rich-Harris/degit) by Rich Harris (creator of Svelte) to grab a copy of the demo folder from my workbook:
 > 
 > ```bash
 > cd ./src/008  # Move to the folder where you want to put the demo
