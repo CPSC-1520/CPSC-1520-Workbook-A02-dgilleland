@@ -33,6 +33,23 @@ featureImage.addEventListener('mousemove', function (event) {
 });
 
 // 8. Let's listen for the mouseout event on the image and pop up an alert that says to the user "Don't go!".
-featureImage.addEventListener('mouseout', function () {
-    alert('Don\'t go!');
+featureImage.addEventListener('mouseout', function (ev) {
+    // alert('Don\'t go!');
+    // Let's replace the alert with a custom modal dialog.
+    let dialog = document.querySelector('dialog');
+    dialog.showModal();
+
+    // Oh, and let's explore the event object a little more...
+    // There is a property on the event object called target that tells us which element the event was fired on.
+    // For this method, we called our parameter "ev" but you can call it whatever you want.
+    ev.target.classList.add('image-blur');
+});
+
+// 9. Let's listen for the dialog's close event.
+//    Learn more about this close event here:
+//      https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement#events
+let myDialog = document.querySelector('dialog');
+myDialog.addEventListener('close', function () {
+    console.log('dialog closed');
+    featureImage.classList.remove('image-blur');
 });
