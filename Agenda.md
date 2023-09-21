@@ -70,6 +70,7 @@
       - Demo **mouse** events such as `click`, `dblclick`, `mouseenter`, `mouseleave`, `mousemove`
       - Demo adding and removing CSS classes programmatically (from `.classList`)
       - Demo an anonymous handler for an event listener
+- [ ] Solution for Lab 2
 - [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
 ----
