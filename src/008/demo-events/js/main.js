@@ -21,3 +21,18 @@ headerEl.addEventListener('dblclick', function () {
     var desc = document.querySelector('.feature.description');
     desc.classList.add('hidden');
 });
+
+// 6. Let's listen for the mouseover event on the image and log the mouse position to the console.
+featureImage.addEventListener('mouseover', function (event) {
+    console.log('{mouseover} mouse position:', event.clientX, event.clientY);
+});
+
+// 7. Let's listen for the mousemove event on the image and log the mouse position to the console.
+featureImage.addEventListener('mousemove', function (event) {
+    console.log('{mousemove} mouse position:', event.clientX, event.clientY);
+});
+
+// 8. Let's listen for the mouseout event on the image and pop up an alert that says to the user "Don't go!".
+featureImage.addEventListener('mouseout', function () {
+    alert('Don\'t go!');
+});
