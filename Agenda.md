@@ -76,8 +76,7 @@
 > To grab a starting point for the demo, you can use [`degit`](https://github.com/Rich-Harris/degit) by Rich Harris (creator of Svelte) to grab a copy of the demo folder from my workbook:
 > 
 > ```bash
-> cd ./src/008  # Move to the folder where you want to put the demo
-> npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/008/demo-events ./demo-events
+> npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/008/demo-events ./src/008/demo-events
 > ```
 >
 > ***Note:** You may need to <kbd>ctrl</kbd>+<kbd>c</kbd> to stop the `npx degit` command after it has finished downloading the demo folder.*
