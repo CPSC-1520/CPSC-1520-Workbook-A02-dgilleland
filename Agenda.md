@@ -70,7 +70,6 @@
       - Demo **mouse** events such as `click`, `dblclick`, `mouseenter`, `mouseleave`, `mousemove`
       - Demo adding and removing CSS classes programmatically (from `.classList`)
       - Demo an anonymous handler for an event listener
-- [ ] Solution for Lab 2
 - [ ] **Homework:** Review the [Learn by Play](./src/005/ReadMe.md#learn-by-play) from [005](./src/005/ReadMe.md).
 
 > To grab a starting point for the demo, you can use [**tiged**](https://github.com/tiged/tiged) (based on [`degit`](https://github.com/Rich-Harris/degit) by Rich Harris, creator of Svelte) to grab a copy of the demo folder from my workbook:
@@ -90,15 +89,31 @@
 
 ## Sep 25
 
+- [ ] Solution for Lab 2
+- [ ] Solution for Lab 3
 - [ ] Today's Lesson
   - [**012**](./src/012/ReadMe.md) - Making Decisions
     - Review [its LOGs](./src/012/LOGs.md)
 - **Homework:**
   - [**009**](./src/009/ReadMe.md) - Waiting for the DOM
   - [**010**](./src/010/ReadMe.md) - Debugging JavaScript
-  - [**011**](./src/011/ReadMe.md) - Organizing Functions in JavaScript
+ 
+----
 
 
+## Sep 26
+
+- [ ] Today's Lesson
+  - *More on decisions...*
+
+----
+
+
+## Sep 28
+
+- [ ] In-Class Lab 4 
+- **Homework:**
+  - *(WIP)* [**011**](./src/011/ReadMe.md) - Organizing Functions in JavaScript
 
 ----
 
