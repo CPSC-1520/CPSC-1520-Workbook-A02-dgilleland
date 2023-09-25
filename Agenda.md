@@ -89,10 +89,10 @@
 
 ## Sep 25
 
-- [ ] Here's another learning resource: https://javascript.info/
-- [ ] Solution for Lab 2
-- [ ] Solution for Lab 3
-- [ ] Today's Lesson
+- [x] Here's another learning resource: https://javascript.info/
+- [x] Solution for Lab 2
+- [x] Solution for Lab 3
+- [x] Today's Lesson
   - [**012**](./src/012/ReadMe.md) - Making Decisions
     - Review [its LOGs](./src/012/LOGs.md)
 - **Homework:**
