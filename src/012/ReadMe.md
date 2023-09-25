@@ -58,11 +58,5 @@ Work through the resize_thumbnails examples, which cover the following:
 3. Removing the decision making from the solution and using what is known in the HTML
 4. Converting to an anonymous function (and the why and when to do so)
 
-----
-
-## Demo-Debugging ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
-
-- Demo Debugging in Chrome
-- Demo Debugging in VS Code
  
 <!-- -->
