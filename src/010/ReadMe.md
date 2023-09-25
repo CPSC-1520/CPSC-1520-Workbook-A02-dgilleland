@@ -8,10 +8,14 @@ Review the following resources on your own.
 - [ ] [Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/) using the Chrome DevTools
 - [ ] [Get started debugging JavaScript](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/) and [JavaScript debugging features](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/reference)
 
-## Practicing Debugging
+----
 
-> ***TBD:** To Be Developed*
+## Demo-Debugging ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
 
-- [ ] Breakpoints and Debugging (backlog 020)
+> ***TBD:** Notes/Instructions To Be Developed*
+
+- Demo Debugging in Chrome
+- Demo Debugging in VS Code
+- [ ] Breakpoints and Debugging (see demo in this folder)
 
 ----
