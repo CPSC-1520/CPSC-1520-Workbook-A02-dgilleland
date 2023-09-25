@@ -89,6 +89,7 @@
 
 ## Sep 25
 
+- [ ] Here's another learning resource: https://javascript.info/
 - [ ] Solution for Lab 2
 - [ ] Solution for Lab 3
 - [ ] Today's Lesson
