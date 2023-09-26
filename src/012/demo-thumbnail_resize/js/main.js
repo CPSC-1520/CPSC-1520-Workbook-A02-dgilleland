@@ -2,19 +2,27 @@
 //   - Add an event handler for the button's click event.
 const buttonContainer = document.querySelector('ul.thumbnail-sizes');
 const clickHandler = function (event) {
-    let info; // for debugging
-    // see where the click happened
-    // console.log(event.target);
-    //          \__________/  the element that was clicked
-    if(event.target.tagName === 'LI') {
-        // console.log("You clicked the LI button");
-        info = event.target.className;
-        // console.log("These are the classes: ",info);
+    // 1) See what was clicked
+    let target = event.target;
+    let info; // for "temp" info
+    if(target.tagName === 'LI') {
+        // 2) Get the portion of the class name that is the size
+        info = target.className;
         info = info.replace('thumbnails-','');
         info = info.replace('active', '');
         info = info.trim(); // Now, I have the size
-    } else {
-        console.log("You clicked between the buttons");
+        // 3) Apply the size to the thumbnails div
+        const thumbnails = document.querySelector('div.thumbnails');
+        // (btw, I am using a template literal here)
+        thumbnails.className = `thumbnails ${info}`;
+        //                                 \_____/
+        //                                   |_ Placeholder
+        // 4) Make the clicked button active
+        //    - Remove the active class from the previous active button
+        const previousActive = document.querySelector('li.active');
+        previousActive.classList.remove('active');
+        //    - Add the active class to the clicked button
+        target.classList.add('active');
     }
 }
 buttonContainer.addEventListener('click', clickHandler);
