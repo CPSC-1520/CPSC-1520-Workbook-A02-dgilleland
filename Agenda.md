@@ -109,6 +109,7 @@
 ## Sep 26
 
 - [ ] Today's Lesson
+  - Try out the `~/src/012/demo-thumbnail_resize`
   - Use decisions in form validation
     - Use [this sample](https://chat.openai.com/share/7f9ac87e-8778-43b0-b9b8-dc1c4e8fe8a7)
   - *More on decisions...*
