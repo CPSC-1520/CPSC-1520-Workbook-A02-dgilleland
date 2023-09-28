@@ -36,7 +36,7 @@ const generateFeedback = function(letterGrade, pointValue) {
 
 document.querySelector('form').addEventListener('submit', function(e) {
     e.preventDefault();
-    const percent = +e.target.elements.percent.value;
+    const percent = +e.target.elements['percent-val'].value;
     let grade = '';
     // TODO: Convert to letter grade & grade point
     if (percent >= 90 && percent <= 100) {
