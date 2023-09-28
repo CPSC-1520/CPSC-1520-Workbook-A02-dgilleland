@@ -119,7 +119,11 @@
 
 ## Sep 28
 
-- [ ] In-Class Lab 4 
+- [ ] Today's Lesson
+  - Nesting If-Else statements
+  - The [`switch`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) statement
+- [ ] In-Class Lab 4
+  - ***NOTE:** There are typos in the lab specs - see comment in MS Teams.
 - **Homework:**
   - *(WIP)* [**011**](./src/011/ReadMe.md) - Organizing Functions in JavaScript
 
