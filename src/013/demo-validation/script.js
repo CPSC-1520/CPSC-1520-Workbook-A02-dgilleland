@@ -1,3 +1,17 @@
+// The event.target is the <form> element
+// A <form> HTML Element has a collection called .elements
+// which hold values that will be submitted from the form.
+// Each <input> or other form element on the form
+// will have the control's id attribute as a "property"
+// (or, an index) on the elements collection.
+// So, if you have an input with an id of "username"
+// you can access the value of that input by using
+// event.target.elements.username.value
+// Sometimes the names of elements will include a hypen or dot.
+// In those cases, you would need to use the bracket notation. E.g.:
+// event.target.elements['first-name'].value
+
+
 document
     .getElementById('demoForm')
     .addEventListener('submit', function(event) {

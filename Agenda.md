@@ -108,7 +108,7 @@
 
 ## Sep 26
 
-- [ ] Today's Lesson
+- [x] Today's Lesson
   - Try out the `~/src/012/demo-thumbnail_resize`
   - Use decisions in form validation
     - Use [this sample](https://chat.openai.com/share/7f9ac87e-8778-43b0-b9b8-dc1c4e8fe8a7)
@@ -129,24 +129,73 @@
 
 ----
 
+## Oct 2
+
+- [ ] Note about Extra Form Demos/Practice and re-arranged files in [013](./src/013/ReadMe.md)
+- [ ] Today's Lesson:
+  - [**015**](./015/ReadMe.md) Loop intro + Grammar
+
+----
+
+## Oct 3
+
+- [ ] Today's Lesson:
+  - [**016**](./016/ReadMe.md) Arrays and Loops
+
+----
+
 ## Instructor TODO:
 
 - **LOGs/Lessons**
   - [ ] [**009**](./009/ReadMe.md) - Waiting for the DOM
+    - [x] Lesson
+    - [ ] LOGs
   - [ ] [**010**](./010/ReadMe.md) - Debugging JavaScript
+    - [x] Lesson
+    - [ ] LOGs
   - [ ] [**011**](./011/ReadMe.md) - Organizing Functions in JavaScript
+    - [x] Lesson
+    - [ ] LOGs
 1. Making Decisions (*Week 4*)
   - [ ] [**012**](./012/ReadMe.md)
-  - [ ] [**01**](./01/ReadMe.md)
+    - [x] Lesson
+    - [ ] LOGs
+  - [ ] [**013**](./013/ReadMe.md) If/Else in Form Validation; link to `switch` documentation
+    - [x] Lesson
+    - [ ] LOGs
+  - [ ] [**014**](./01/ReadMe.md) TODO: Lesson on the Switch statement (flipped class)
+    - [ ] Lesson
+    - [ ] LOGs
 1. Loops and Arrays (*Weeks 5 & 6*)
-  - [ ] [**01**](./01/ReadMe.md)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**015**](./015/ReadMe.md) Loop intro + Grammar
+    - [x] Lesson
+    - [ ] LOGs
+  - [ ] [**016**](./016/ReadMe.md) Arrays and Loops
+    - [x] Lesson
+    - [ ] LOGs
+  - [ ] [**017**](./017/ReadMe.md) TODO: Array `.forEach`, array `of`/`in` loops
+    - [ ] Lesson
+    - [ ] LOGs
 1. JS Objects (*Weeks 7 & 8*)
   - [ ] [**01**](./01/ReadMe.md)
+    - [ ] Lesson
+    - [ ] LOGs
   - [ ] [**01**](./01/ReadMe.md)
+    - [ ] Lesson
+    - [ ] LOGs
+  - [ ] [**01**](./01/ReadMe.md)
+    - [ ] Lesson
+    - [ ] LOGs
 1. Fetch Fundamentals (*Week 9*)
   - [ ] [**01**](./01/ReadMe.md)
+    - [ ] Lesson
+    - [ ] LOGs
   - [ ] [**01**](./01/ReadMe.md)
+    - [ ] Lesson
+    - [ ] LOGs
+  - [ ] [**01**](./01/ReadMe.md)
+    - [ ] Lesson
+    - [ ] LOGs
 1. DOM API & Timers (*Week 10*)
   - [ ] [**01**](./01/ReadMe.md)
   - [ ] [**01**](./01/ReadMe.md)
