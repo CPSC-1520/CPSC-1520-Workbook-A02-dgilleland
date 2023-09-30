@@ -131,6 +131,7 @@
 
 ## Oct 2
 
+- [ ] Trivia & a great visualization: [The closest planet to Earth](https://www.youtube.com/shorts/BGyIQScWnCA)
 - [ ] Note about Extra Form Demos/Practice and re-arranged files in [013](./src/013/ReadMe.md)
 - [ ] Today's Lesson:
   - [**015**](./015/ReadMe.md) Loop intro + Grammar
