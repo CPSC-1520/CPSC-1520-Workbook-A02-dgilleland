@@ -138,6 +138,10 @@
 - [ ] Today's Lesson:
   - [**015**](./015/ReadMe.md) Loop intro + Grammar
 
+> ```bash
+> npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/015 ./src/015
+> ```
+
 ----
 
 ## Oct 3
