@@ -1,6 +1,6 @@
 # Agenda
 
-> These are my notes on what I plan to teach in each [**upcoming class**](#oct-2). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
+> These are my notes on what I plan to teach in each [**upcoming class**](#oct-3). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
 >
 > ## *... Warn those who are idle ..., encourage the disheartened, help the weak, be patient with everyone.*
 >
@@ -136,7 +136,7 @@
   - Also check out this on [Learning Web Forms](https://web.dev/learn/forms/)
 - [ ] Solution to Lab 4
 - [ ] Today's Lesson:
-  - [**015**](./015/ReadMe.md) Loop intro + Grammar
+  - [**015**](./src/015/ReadMe.md) Loop intro + Grammar
 
 > ```bash
 > npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/015 ./src/015
@@ -147,74 +147,75 @@
 ## Oct 3
 
 - [ ] Today's Lesson:
-  - [**016**](./016/ReadMe.md) Arrays and Loops
+  - [**016**](./src/016/ReadMe.md) Arrays and Loops
+  - `ctrl.focus()`
 
 ----
 
 ## Instructor TODO:
 
 - **LOGs/Lessons**
-  - [ ] [**009**](./009/ReadMe.md) - Waiting for the DOM
+  - [ ] [**009**](./src/009/ReadMe.md) - Waiting for the DOM
     - [x] Lesson
     - [ ] LOGs
-  - [ ] [**010**](./010/ReadMe.md) - Debugging JavaScript
+  - [ ] [**010**](./src/010/ReadMe.md) - Debugging JavaScript
     - [x] Lesson
     - [ ] LOGs
-  - [ ] [**011**](./011/ReadMe.md) - Organizing Functions in JavaScript
+  - [ ] [**011**](./src/011/ReadMe.md) - Organizing Functions in JavaScript
     - [x] Lesson
     - [ ] LOGs
 1. Making Decisions (*Week 4*)
-  - [ ] [**012**](./012/ReadMe.md)
+  - [ ] [**012**](./src/012/ReadMe.md)
     - [x] Lesson
     - [ ] LOGs
-  - [ ] [**013**](./013/ReadMe.md) If/Else in Form Validation; link to `switch` documentation
+  - [ ] [**013**](./src/013/ReadMe.md) If/Else in Form Validation; link to `switch` documentation
     - [x] Lesson
     - [ ] LOGs
-  - [ ] [**014**](./01/ReadMe.md) TODO: Lesson on the Switch statement (flipped class)
+  - [ ] [**014**](./src/01/ReadMe.md) TODO: Lesson on the Switch statement (flipped class)
     - [ ] Lesson
     - [ ] LOGs
 1. Loops and Arrays (*Weeks 5 & 6*)
-  - [ ] [**015**](./015/ReadMe.md) Loop intro + Grammar
+  - [ ] [**015**](./src/015/ReadMe.md) Loop intro + Grammar
     - [x] Lesson
     - [ ] LOGs
-  - [ ] [**016**](./016/ReadMe.md) Arrays and Loops
+  - [ ] [**016**](./src/016/ReadMe.md) Arrays and Loops
     - [x] Lesson
     - [ ] LOGs
-  - [ ] [**017**](./017/ReadMe.md) TODO: Array `.forEach`, array `of`/`in` loops
+  - [ ] [**017**](./src/017/ReadMe.md) TODO: Array `.forEach`, array `of`/`in` loops
     - [ ] Lesson
     - [ ] LOGs
 1. JS Objects (*Weeks 7 & 8*)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
     - [ ] Lesson
     - [ ] LOGs
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
     - [ ] Lesson
     - [ ] LOGs
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
     - [ ] Lesson
     - [ ] LOGs
 1. Fetch Fundamentals (*Week 9*)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
     - [ ] Lesson
     - [ ] LOGs
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
     - [ ] Lesson
     - [ ] LOGs
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
     - [ ] Lesson
     - [ ] LOGs
 1. DOM API & Timers (*Week 10*)
-  - [ ] [**01**](./01/ReadMe.md)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
 1. NPM, Tools, ES Modules (*Weeks 11 & 12*)
-  - [ ] [**01**](./01/ReadMe.md)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
 1. Class, Object, Prototypes (*Weeks 13 & 14*)
-  - [ ] [**01**](./01/ReadMe.md)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
 1. Extra Topics (*Week 15*)
-  - [ ] [**01**](./01/ReadMe.md)
-  - [ ] [**01**](./01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
+  - [ ] [**01**](./src/01/ReadMe.md)
 
 <!--
 
