@@ -150,6 +150,10 @@
   - [**016**](./src/016/ReadMe.md) Arrays and Loops
   - `ctrl.focus()`
 
+> ```bash
+> npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/016 ./src/016
+> ```
+
 ----
 
 ## Instructor TODO:
