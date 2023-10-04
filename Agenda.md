@@ -154,6 +154,37 @@
 > npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/016 ./src/016
 > ```
 
+## Oct 5
+
+- [ ] Homework Review
+  - [ ] Read about [**Indexed Collections**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections)
+  - [ ] Read about [**Keyed Collections**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections)
+
+## Oct 12
+
+- [ ] Homework Review
+  - [ ] Read about [**JavaScript Modules**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+## Oct 16
+
+- [ ] Today's Lesson:
+  - [ ] Creating objects using Object Initializers (or *Object Literals*)
+  - [ ] Defining "members" of objects (properties and methods)
+  - [ ] Creating objects using Constructor Functions (with the `new` keyword)
+  - [ ] Creating objects using the `Object.create()` method
+  - [ ] Defining getters and setters (*How C# is that!?*)
+- [ ] Homework Review
+  - [ ] Read about [**Working with Objects**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
+
+
+**Oct 17**
+
+- [ ] Today's Lesson:
+  - [ ] Using Classes to create objects
+- [ ] Homework Review
+  - [ ] Read about [**Using Classes**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
+  - [ ] Read about [**Inheritance**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
 ----
 
 ## Instructor TODO:
