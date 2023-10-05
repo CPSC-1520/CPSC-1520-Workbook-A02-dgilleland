@@ -42,3 +42,15 @@ document.querySelector('table').innerHTML += html;
 
 ### Native JavaScript Modules
 
+We'll make use of native JavaScript modules to organize our code into separate files. This will allow us to keep our code organized and to use the `import` and `export` keywords to share code between files. Additionally, it will help us to avoid polluting the global namespace with our variables and functions.
+
+We'll use an `index.js` file as the "root" of our JavaScript application. This file will import the other modules and will contain the code that runs when the page loads.
+
+```javascript
+// index.js
+import * as data from './data.js';
+import * as ui from './ui.js';
+// ... more imports
+// ... code that runs when the page loads
+//     (e.g. event listeners, etc.)
+```
