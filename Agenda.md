@@ -211,6 +211,8 @@
 
 > **Fetch Fundamentals**
 
+- [ ] [Using Keyword](https://www.youtube.com/shorts/mGou_ii5X0w) (in the context of file creation)
+
 ## Oct 31
 
 ## Nov 2
