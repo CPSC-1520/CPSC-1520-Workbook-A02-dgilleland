@@ -9,7 +9,7 @@
 
 ----
 
-## Sep 5
+## Sep 5 (W01)
 
 - Course Introduction
 - GitHub Account Setup
@@ -19,7 +19,9 @@
 
 - *To be backfilled...*
 
-## Sep 11
+----
+
+## Sep 11 (W02)
 
 - [x] VS Code Extensions (Live Server, etc.)
 - [x] Complete practice app
@@ -46,7 +48,9 @@
   - Begin [005](./src/005/ReadMe.md)
     - Review [its LOGs](./src/005/LOGs.md)
 
-## Sep 18
+----
+
+## Sep 18 (W03)
 
 - [ ] Today's Lesson(s)
   - [Resume](./src/005/main.js) and Complete [005](./src/005/ReadMe.md)
@@ -91,7 +95,7 @@
 ----
 
 
-## Sep 25
+## Sep 25 (W04)
 
 - [x] Here's another learning resource: https://javascript.info/
 - [x] Solution for Lab 2
@@ -129,7 +133,7 @@
 
 ----
 
-## Oct 2
+## Oct 2 (W05)
 
 - [ ] Trivia & a great visualization: [The closest planet to Earth](https://www.youtube.com/shorts/BGyIQScWnCA)
 - [ ] Note about Extra Form Demos/Practice and re-arranged files in [013](./src/013/ReadMe.md)
@@ -141,8 +145,6 @@
 > ```bash
 > npx tiged --disable-cache --force CPSC-1520/CPSC-1520-Workbook-A02-dgilleland/src/015 ./src/015
 > ```
-
-----
 
 ## Oct 3
 
@@ -160,12 +162,18 @@
   - [ ] Read about [**Indexed Collections**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections)
   - [ ] Read about [**Keyed Collections**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections)
 
-## Oct 12
+----
+
+## Oct 12 (W06)
 
 - [ ] Homework Review
   - [ ] Read about [**JavaScript Modules**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
-## Oct 16
+----
+
+## Oct 16 (W07)
+
+> **Objects (Week 1)**
 
 - [ ] Today's Lesson:
   - [ ] Creating objects using Object Initializers (or *Object Literals*)
@@ -177,13 +185,83 @@
   - [ ] Read about [**Working with Objects**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
 
 
-**Oct 17**
+## Oct 17
 
 - [ ] Today's Lesson:
   - [ ] Using Classes to create objects
 - [ ] Homework Review
   - [ ] Read about [**Using Classes**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
   - [ ] Read about [**Inheritance**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+## Oct 19
+
+----
+
+## Oct 23 (W08)
+
+> **Objects (Week 2)**
+
+## Oct 24
+
+## Oct 26
+
+----
+
+## Oct 30 (W09)
+
+> **Fetch Fundamentals**
+
+## Oct 31
+
+## Nov 2
+
+----
+
+## Nov 6 (W10)
+
+## Nov 7
+
+## Nov 9
+
+----
+
+## Nov 13 (W11)
+
+## Nov 14
+
+## Nov 16
+
+----
+
+## Nov 20 (W12)
+
+## Nov 21
+
+## Nov 23
+
+----
+
+## Nov 27 (W13)
+
+## Nov 28
+
+## Nov 30
+
+----
+
+## Dec 4 (W14)
+
+## Dec 5
+
+## Dec 7
+
+----
+
+## Dec 11 (W15)
+
+## Dec 12
+
+## Dec 14
 
 ----
 
