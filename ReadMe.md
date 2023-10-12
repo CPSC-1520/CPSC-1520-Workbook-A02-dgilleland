@@ -50,7 +50,7 @@ gantt
     Quiz 6, Dec 14 :  milestone, 2023-12-14, 0d
 
     section Take-Home Assessments
-    Assessment 1, due Oct 12 : 2023-10-05, 2023-10-12
+    Assessment 1, due Oct 13 : 2023-10-05, 2023-10-13
     Assessment 2, due Nov 16 : 2023-11-09, 2023-11-16
     Assessment 3, due Dec 12 : 2023-12-05, 2023-12-12
 
