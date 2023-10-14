@@ -1,6 +1,6 @@
 # Agenda
 
-> These are my notes on what I plan to teach in each [**upcoming class**](#oct-3). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
+> These are my notes on what I plan to teach in each [**upcoming class**](#oct-16-w07). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
 >
 > ## *... Warn those who are idle ..., encourage the disheartened, help the weak, be patient with everyone.*
 >
@@ -187,6 +187,7 @@
 
 ## Oct 17
 
+- [ ] **Lab 5 Today!**
 - [ ] Today's Lesson:
   - [ ] Using Classes to create objects
 - [ ] Homework Review
