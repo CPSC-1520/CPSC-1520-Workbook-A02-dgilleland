@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+    <style>
+        [popover] {
+            inset: unset;
+            bottom: anchor(top);
+            left: anchor(center);
+            translate: -50%;
+            margin: 0.25rem 0;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <div>
+            <div class="label-container">
+                <label for="confusing">Confusing Field</label>
+                <button 
+                    popovertarget="info" 
+                    popovertargetaction id="btn" 
+                    type="button" 
+                    class="information">i</button>
+                <div id="info" popover="manual" anchor="btn">Extra</div>
+            </div>
+            <input type="text" id="confusing">
+        </div>
+    </form>
+</body>
+</html>
