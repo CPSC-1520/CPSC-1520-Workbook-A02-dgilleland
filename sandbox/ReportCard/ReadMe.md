@@ -54,3 +54,13 @@ import * as ui from './ui.js';
 // ... code that runs when the page loads
 //     (e.g. event listeners, etc.)
 ```
+
+In order to leverage the `import` and `export` keywords, we'll need to add the `type="module"` attribute to the `<script>` tag in our HTML file.
+
+```html
+<script src="index.js" type="module"></script>
+```
+
+### Useful DOM API Management
+
+We'll leverage some DOM API skills to access rows of detailed information for each course.
