@@ -180,9 +180,6 @@
     - *A Computer Program is a Set of Instructions for Manipulating Information*
   - [ ] Creating objects using Object Initializers (or *Object Literals*) - [object-literals demo](./src/018/object-literals/)
   - [ ] Defining "members" of objects (properties and methods)
-  - [ ] Creating objects using Constructor Functions (with the `new` keyword)
-  - [ ] Creating objects using the `Object.create()` method
-  - [ ] Defining getters and setters (*How C# is that!?*)
 - [ ] Homework Review
   - [ ] Read notes on [Objects](./src/018/Objects.md)
   - [ ] Read notes on [JSON](./src/018/JSON.md)
@@ -193,20 +190,17 @@
 
 - [ ] **Lab 5 Today!**
 - [ ] **Quiz 3 Reminder - Oct 19**
-- [ ] Today's Lesson:
-  - [ ] Using Classes to create objects
-- [ ] Homework Review
-  - [ ] Read about [**Using Classes**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
-  - [ ] Read about [**Inheritance**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
 ## Oct 19
 
 - [ ] Today's Lesson
   - [ ] **Naitive JavaScript Modules**
+  - [ ] See the [bonus](src/(bonus)/import-handlers)
   - [ ] A Note on Interfaces
     - > *According to the Mozilla Developer Network (MDN), an interface in JavaScript is a type definition with method signatures. It is not a class with a constructor that can be instantiated, nor is it a prototype object.* - Bing AIs
 - [ ] Homework:
   - [ ] Read:
+    - [ ] [**Working with Objects**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
     - [ ] [**JavaScript Modules**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) from MDN
     - [ ] (Advanced topic: optional) [Unlocking the Power of Native Modules in JavaScript: An Introductory Guide](https://dev.to/danielboll/unlocking-the-power-of-native-modules-in-javascript-an-introductory-guide-4jh1)
     - [ ] (Advanced topic: Optional) [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/)
@@ -216,6 +210,15 @@
 ## Oct 23 (W08)
 
 > **Objects (Week 2)**
+
+- [ ] Today's Lesson:
+  - [ ] Creating objects using Constructor Functions (with the `new` keyword)
+  - [ ] Creating objects using the `Object.create()` method
+  - [ ] Defining getters and setters (*How C# is that!?*)
+  - [ ] Using Classes to create objects
+- [ ] Homework Review
+  - [ ] Read about [**Using Classes**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
+  - [ ] Read about [**Inheritance**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
 ## Oct 24
 
