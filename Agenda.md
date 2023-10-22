@@ -1,6 +1,6 @@
 # Agenda
 
-> These are my notes on what I plan to teach in each [**upcoming class**](#oct-16-w07). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
+> These are my notes on what I plan to teach in each [**upcoming class**](#oct-23-w08). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
 >
 > ## *... Warn those who are idle ..., encourage the disheartened, help the weak, be patient with everyone.*
 >
@@ -216,13 +216,28 @@
   - [ ] Creating objects using the `Object.create()` method
   - [ ] Defining getters and setters (*How C# is that!?*)
   - [ ] Using Classes to create objects
+- [ ] Revisiting Functions
+  - [ ] Understanding the [Arrow Function syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [ ] Homework Review
   - [ ] Read about [**Using Classes**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
   - [ ] Read about [**Inheritance**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
 ## Oct 24
 
+- [ ] Today's Lesson:
+  - [ ] JSON Format/Structure
+  - [ ] Creating JSON files
+  - [ ] Converting JavaScript Objects to JSON using Stringify
+  - [ ] Converting JSON to JavaScript Objects using Parse
+
 ## Oct 26
+
+- [ ] Today's Lesson:
+  - [ ] JSON as a Configuration Tool
+  - [ ] Brief Intro to Node (via NPM)
+  - [ ] Minimal package.json
+  - [ ] Package.json Fields
+  - [ ] The role of Package.json in Node applications
 
 ----
 
@@ -230,7 +245,10 @@
 
 > **Fetch Fundamentals**
 
-- [ ] [Using Keyword](https://www.youtube.com/shorts/mGou_ii5X0w) (in the context of file creation)
+- [ ] Today's Lesson:
+  - [ ] Intro to the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  - [ ] Understanding and [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [ ] Sidenote: [Using Keyword](https://www.youtube.com/shorts/mGou_ii5X0w) (in the context of file creation)
 
 ## Oct 31
 
