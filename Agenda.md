@@ -221,6 +221,7 @@
 - [ ] Homework Review
   - [ ] Read about [**Using Classes**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
   - [ ] Read about [**Inheritance**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+  - [ ] Read [ES6 In Depth](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
 
 ## Oct 24
 
