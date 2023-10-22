@@ -216,6 +216,8 @@
   - [ ] Creating objects using the `Object.create()` method
   - [ ] Defining getters and setters (*How C# is that!?*)
   - [ ] Using Classes to create objects
+  - [ ] "Unpacking" objects using the destructuring assignment syntax.
+    - [ ] see [this conversation](https://sl.bing.net/elw8PgMLb2W)
 - [ ] Revisiting Functions
   - [ ] Understanding the [Arrow Function syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [ ] Homework Review
