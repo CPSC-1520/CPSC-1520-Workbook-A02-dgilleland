@@ -213,9 +213,8 @@
 
 - [ ] Today's Lesson:
   - [ ] Creating objects using Constructor Functions (with the `new` keyword)
-  - [ ] Creating objects using the `Object.create()` method
+  - [ ] ~~Creating objects using the `Object.create()` method~~
   - [ ] Defining getters and setters (*How C# is that!?*)
-  - [ ] Using Classes to create objects
   - [ ] "Unpacking" objects using the destructuring assignment syntax.
     - [ ] see [this conversation](https://sl.bing.net/gCXPRAS8zF6)
 - [ ] Revisiting Functions
@@ -261,6 +260,8 @@
 
 ## Nov 6 (W10)
 
+> **DOM API & Timers**
+
 ## Nov 7
 
 ## Nov 9
@@ -268,6 +269,9 @@
 ----
 
 ## Nov 13 (W11)
+
+- [ ] Today's Lesson
+  - [ ] Using Classes to create objects
 
 ## Nov 14
 
