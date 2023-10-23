@@ -6,7 +6,7 @@
     <title>Report Card</title>
     <link rel="stylesheet" href="https://unpkg.com/boltcss/bolt.min.css">
     <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
+    <script src="script.js" type="module"></script>
 </head>
 <body>
     <h1>Report Card</h1>
@@ -50,8 +50,8 @@
             </tbody>
             <tfoot>
                 <tr>
-                    <td><input type="text" placeholder="Course Number"></td>
-                    <td><input type="text" placeholder="Name of Course"></td>
+                    <td><input id="courseName" type="text" placeholder="Course Number"></td>
+                    <td><input id="courseNumber" type="text" placeholder="Name of Course"></td>
                     <td><button>Add Course</button></td>
                 </tr>
             </tfoot>
