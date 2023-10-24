@@ -1,0 +1,17 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "jd@nait.ca"
+    },
+    {
+        "firstName": "Max",
+        "lastName": "Fleming",
+        "email": "max.fleming@example.com"
+    },
+    {
+        "firstName": "Anna",
+        "lastName": "Lyst",
+        "email": "a.lyst@sob.ca"
+    }
+]
