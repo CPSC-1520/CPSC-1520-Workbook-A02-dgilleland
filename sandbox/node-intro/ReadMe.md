@@ -133,6 +133,8 @@ Dependencies fall under two general groups. The first group is "production depen
 
 While the list of available libraries is nearly endless, it should be noted that Node comes with a number of utility objects/functions that are available to all Node applications. These include the `fs` (file system) object, the `path` object, the `http` object, etc. These are all part of the Node.js API and are available to all Node applications.
 
+> It would be helpful to note that there are something that are *not* available in our Node applications. For example, the `window` object is not available in Node applications. This is because the `window` object is part of the *browser's* API, not the Node.js API. Other browser-specific objects, such as the `document` object, are also not available in Node.js applications.
+
 ## TDD FTW!
 
 ### What is TDD?
