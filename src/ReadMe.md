@@ -19,8 +19,8 @@ A more detailed explanation of the command would look like this:
 $ npx tiged --disable-cache --force DMIT-1234/Instructor-Workbook/src/008/demo-events ./src/008/demo-events
 //\_/ \___/ \_____________/ \_____/ \_______/ \_________________/ \_________________/ \___________________/
 // |    |          |          |       |             |                     |                     |- Destination folder
-// |    |          |          |       |             |                     |- Instructor Repo's sub-folder
-// |    |          |          |       |             |- Instructor Repo's name
+// |    |          |          |       |             |                     |- Instructor's sub-folder
+// |    |          |          |       |             |- Name of Instructor's Repo
 // |    |          |          |       |- GitHub Organization or User
 // |    |          |          |- Force overwrite of existing files
 // |    |          |- Disable caching of repo (so you grab the latest version)
