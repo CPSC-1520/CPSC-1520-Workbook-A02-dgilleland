@@ -231,15 +231,24 @@
   - [ ] Creating JSON files
   - [ ] Converting JavaScript Objects to JSON using Stringify
   - [ ] Converting JSON to JavaScript Objects using Parse
+  - [ ] [Arrow Operator Demo](./src/019/green-arrows/)
 
 ## Oct 26
 
 - [ ] Today's Lesson:
   - [ ] JSON as a Configuration Tool
-  - [ ] Brief Intro to Node (via NPM)
+  - [ ] [Brief Intro to Node](./sandbox//node-intro/ReadMe.md) (via `npm` and `pnpm`)
   - [ ] Minimal package.json
   - [ ] Package.json Fields
   - [ ] The role of Package.json in Node applications
+  - [ ] Ad-hoc [a `vitest` demo](./sandbox/Num-Brrs/ReadMe.md)
+    - [ ] Imagine a function that takes an array of numbers followed by an operator and returns the result of the operation on that array of values.
+      - > *Note that we are assuming the result starts with the first number in the array as the initial/starting value, and then the remaining numbers are applied to that initial value using the operator.*
+      - ***`it()`***
+      - [ ] 'should add 1, 2, 3, 4, 5 to equal 15'
+      - [ ] 'should subtract 1, 2, 3, 4, 5 to equal -13'
+      - [ ] *What tests would you write for multiplication and division?*
+    - [ ] Let's build a UI (index.html) that will allow the user to a) select a math operation, b) enter a list of numbers (comma-separated), and c) see the result of the operation.
 
 ----
 
