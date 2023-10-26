@@ -1,0 +1,14 @@
+{
+  "name": "num-brrs",
+  "version": "1.0.0",
+  "description": "![](./images/num-brrs.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
