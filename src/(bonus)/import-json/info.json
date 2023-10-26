@@ -1,0 +1,8 @@
+{
+    "name": "demo-app",
+    "description": "This illustrates how to use JSON as a data-format for application settings",
+    "connectionString" : {
+        "name": "myDb",
+        "connection": "Server=.;Database=Westwind;Trusted_Connection=true;"
+    }
+}
