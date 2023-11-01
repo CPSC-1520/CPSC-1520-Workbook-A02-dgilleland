@@ -9,66 +9,15 @@
 <body>
     <h1>Database Data</h1>
     <form>
+        <label for="dataFile">Data File
+            <input name="dataFile" id="dataFile" list="knownFiles">
+            <datalist id="knownFiles">
+                <option value="staff.json">
+            </datalist>
+        </label>
         <button type="submit">Process</button>
         <label for="resultSet">JSON Result of Query
-
-            <textarea name="resultSet" id="resultSet" cols="80" rows="20">[
-  {
-    "PositionDescription": "Dean",
-    "FirstName": "Hugh",
-    "LastName": "Guy"
-  },
-  {
-    "PositionDescription": "Program Chair",
-    "FirstName": "Nic",
-    "LastName": "Bustamante"
-  },
-  {
-    "PositionDescription": "Assistant Program Chair",
-    "FirstName": "Robert",
-    "LastName": "Smith"
-  },
-  {
-    "PositionDescription": "Assistant Program Chair",
-    "FirstName": "Cher",
-    "LastName": "Power"
-  },
-  {
-    "PositionDescription": "Instructor",
-    "FirstName": "Tess",
-    "LastName": "Agonor"
-  },
-  {
-    "PositionDescription": "Instructor",
-    "FirstName": "Nolan",
-    "LastName": "Itall"
-  },
-  {
-    "PositionDescription": "Instructor",
-    "FirstName": "Jerry",
-    "LastName": "Kan"
-  },
-  {
-    "PositionDescription": "Instructor",
-    "FirstName": "Sia",
-    "LastName": "Latter"
-  },
-  {
-    "PositionDescription": "Office Administrator",
-    "FirstName": "Donna",
-    "LastName": "Bookem"
-  },
-  {
-    "PositionDescription": "Technical Support Staff",
-    "FirstName": "Chip",
-    "LastName": "Andale"
-  },
-  {
-    "PositionDescription": "Assistant Dean",
-    "FirstName": null,
-    "LastName": null
-  }
-]</textarea>
+            <textarea name="resultSet" id="resultSet" cols="80" rows="20"></textarea>
         </label>
     </form>
     <div id="tabularData"></div>
