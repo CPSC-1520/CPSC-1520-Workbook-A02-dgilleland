@@ -1,3 +1,13 @@
+const convertResponseToJson = function(response) {
+    // TODO: validate....
+    console.log(response);
+
+    // return JSON
+    if(response.status === 200)
+        return response.json();
+    else
+        return [];
+}
 // Listen for the form submit event
 document.querySelector('form').addEventListener('submit', async function (evt) {
     // prevent the default form submit behavior
@@ -7,10 +17,14 @@ document.querySelector('form').addEventListener('submit', async function (evt) {
     if (dataFile.length > 0) {
         // Presuming that is in a relative file path under a folder named "data", fetch the data and parse as JSON
         await fetch(`data/${dataFile}`)
-            .then(response => response.json())
+            .then(convertResponseToJson)
             .then(data => {
                 // convert the JSON to a string and put it in the form element named resultSet
                 evt.target.elements.resultSet.value = JSON.stringify(data, null, 2);
+            })
+            .catch(err => {
+                // Process the error that was thrown
+                console.log(err);
             });
     }
 
