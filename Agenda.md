@@ -275,6 +275,9 @@
   - [ ] Videos on `setTimeout()` and `setInterval()`
     - [ ] [JavaScript setTimeout & setInterval In 90 Seconds](https://youtu.be/JRevaOwNKTI?si=3dZELTNQlsyZu-tB)
     - [ ] [setInterval and setTimeout: timing events - Beau teaches JavaScript](https://youtu.be/kOcFZV3c75I?si=4QKS1R0cn7zInlUr)
+  - [ ] Videos on DOM API
+    - [ ] [JavaScript DOM API 👨🏻‍💻 in 1 Minute](https://youtu.be/URHSg95yWo0?si=Kp43S2IvntKfAr24)
+    - [ ] [DOM API - JavaScript Tutorial for beginners](https://youtu.be/wbQLEXg_urE?si=PG__AhNEUJwO_gCh)
 
 ## Nov 7
 
