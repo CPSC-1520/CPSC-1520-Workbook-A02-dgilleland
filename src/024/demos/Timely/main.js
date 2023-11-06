@@ -1,5 +1,4 @@
-// Use IIFE
-(function() {
+const showDate = function() {
     const getDatePortion = function(someDate) {
         if(someDate instanceof Date) {
             // Build a string with just the date portion
@@ -21,4 +20,6 @@
     }
 
     console.log('main.js is loaded');
-})(); // Run the function immediately
+};
+
+showDate();
