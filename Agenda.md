@@ -1,6 +1,6 @@
 # Agenda
 
-> These are my notes on what I plan to teach in each [**upcoming class**](#oct-23-w08). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
+> These are my notes on what I plan to teach in each [**upcoming class**](#nov-06-w10). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
 >
 > ## *... Warn those who are idle ..., encourage the disheartened, help the weak, be patient with everyone.*
 >
@@ -270,6 +270,11 @@
 ## Nov 6 (W10)
 
 > **DOM API & Timers**
+
+- [ ] Today's Lesson:
+  - [ ] Videos on `setTimeout()` and `setInterval()`
+    - [ ] [JavaScript setTimeout & setInterval In 90 Seconds](https://youtu.be/JRevaOwNKTI?si=3dZELTNQlsyZu-tB)
+    - [ ] [setInterval and setTimeout: timing events - Beau teaches JavaScript](https://youtu.be/kOcFZV3c75I?si=4QKS1R0cn7zInlUr)
 
 ## Nov 7
 
