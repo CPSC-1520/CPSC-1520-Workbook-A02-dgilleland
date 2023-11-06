@@ -1,6 +1,6 @@
 # Agenda
 
-> These are my notes on what I plan to teach in each [**upcoming class**](#nov-06-w10). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
+> These are my notes on what I plan to teach in each [**upcoming class**](#nov-6-w10). For the timeline of where we are today, see [the current schedule](./ReadMe.md#schedule).
 >
 > ## *... Warn those who are idle ..., encourage the disheartened, help the weak, be patient with everyone.*
 >
