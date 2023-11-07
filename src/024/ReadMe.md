@@ -10,13 +10,26 @@
 
 ## Timely Demo
 
+Learn a bit about the Date object in JavaScript with the [Timely Demo](src\024\demos\Timely\index.html).
+
 ----
 
 ## Exploring Timeouts
 
+In the [Exploring Timeouts](.src\024\demos\ExploringTimeouts\index.html) demo, you are prompted to enter the secret password and then you are given access. But wait! If you enter the wrong password, then a timer is set for 8 seconds to prompt you once more for the password. If you enter the wrong password again, then the process repeats. But don't worry, you can either enter the correct password, or just click the "Stop Nagging" button.
+
 ----
 
 ## Exploring Intervals
+
+The [Exploring Intervals](src\024\demos\ExploringIntervals\index.html) demo keeps placing dots on the screen every second. This is done with the `setInterval()` function in JavaScript. There is a button to stop the interval.
+
+
+## Stop-Watch
+
+This short demo is an implementation of an [older] MDN article on using the `setInterval()` function.
+
+It is incomplete, but does have instructions in the comments of [`main.js`](src\024\demos\StopWatch\main.js) on what to do to complete this.
 
 ----
 

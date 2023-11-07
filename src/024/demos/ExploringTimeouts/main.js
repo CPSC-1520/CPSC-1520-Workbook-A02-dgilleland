@@ -3,6 +3,7 @@ const getPassword = function() {
     if(input === password) {
         alert('Access Granted');
         timeoutRef = null;
+        document.querySelector('button').disabled = true;
     } else {
         // Set up a nagging prompt
         timeoutRef = setTimeout(getPassword, 8000);

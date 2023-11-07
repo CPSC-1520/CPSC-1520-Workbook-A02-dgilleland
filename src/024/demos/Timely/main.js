@@ -1,4 +1,4 @@
-const showDate = function() {
+const showDate = function(thisDate) {
     const getDatePortion = function(someDate) {
         if(someDate instanceof Date) {
             // Build a string with just the date portion
@@ -21,5 +21,5 @@ const showDate = function() {
 
     console.log('main.js is loaded');
 };
-
-showDate();
+const output = document.getElementById('thisDate');
+showDate(output);
