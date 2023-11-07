@@ -1,6 +1,6 @@
 # DOM API and ~~Best~~ Good Practices
 
-> > "Best Practices" are for absolute beginners. The rest of us use "Good Prctices". <cite>Dan Gilleland</cite>
+> > "Best Practices" are for absolute beginners. The rest of us use "Good Practices". <cite>Dan Gilleland</cite>
 
 ----
 
@@ -14,7 +14,13 @@ In your browser, there is a top-most area of JavaScript known as the [**Global o
 
 Because this global scope/namespace is shared by all scripts loaded by our page, it's possible to have a "collision" - a situation where two different scripts define a variable or function by the same name in the global scope. Yes, we can protect our variable by making it a `const` if need be, but all that may do is "break" the other scripts. Effectively, the more global variables and functions we create, the more we are "polutting" the global namespace. And [polutting the global namespace](https://www.tutorialspoint.com/what-is-global-namespace-pollution-in-javascript) is generally a bad idea.
 
-The better practice is to *isolate our variables and functions* in a narrower scope - one that won't be impacted by external scripts. One common way we can define our variables within a narrower "scope" is to create a "main" function that represents the "entry point" of our script. Any variables defined with a `let` or `const` inside that function will be **enclosed** in that function, effectively *hidden* from the global namespace. This concept is called ["closure"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) in JavaScript.
+The better practice is to *isolate our variables and functions* in a narrower scope - one that won't be impacted by external scripts. But how can we accomplish that?
+
+**JavaScript Modules** (introduced as part of ES6) are the best way to accomplish this. But if you can't use modules, there are other approaches.
+
+### In the Days of Old...
+
+Here is another approach, from the days long before ES6 modules. In this approach, we define our variables within a narrower "scope". We create a "main" function that represents the "entry point" of our script. Any variables defined with a `let` or `const` inside that function will be **enclosed** in that function, effectively *hidden* from the global namespace. This concept is called ["closure"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) in JavaScript.
 
 ```js
 const main = function(loadedEvent) {
@@ -24,6 +30,8 @@ const main = function(loadedEvent) {
 document.addEventListener('DOMContentLoaded', main);
 ```
 
+Granted, that still leaves our `main` function as part of the global namespace. But at least we've *minimized* how much of our script is exposed to the global namespace.
+
 Another way to avoid pollutting the global namespace is to use an *Immediately Invoked Function Expression* ([**IIFE**](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)). The following outlines the syntax for an IIFE using an *anonymous* (un-named) function.
 
 ```js
@@ -32,9 +40,16 @@ Another way to avoid pollutting the global namespace is to use an *Immediately I
 })()
 ```
 
+In this approach, we have a function that is immediately invoked. It's not assigned to a variable, so it's not accessible from the global namespace. It's just a function that is executed immediately. And, like the previous example, any variables defined with a `let` or `const` inside that function will be **enclosed** in that function, effectively *hidden* from the global namespace.
+
+### Conclusion
+
+The better practice today is to use ES6 modules. But if you can't, then use one of the above approaches to avoid polluting the global namespace.
+
 ### Readings
 
 - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) (*MDN*)
+- [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) (*MDN*)
 - [A Simple Explanation of Scope in JavaScript](https://dmitripavlutin.com/javascript-scope/)
 - [Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
@@ -45,6 +60,8 @@ Another way to avoid pollutting the global namespace is to use an *Immediately I
 
 ## DOM API Intro ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
 
+> *See the dom-intro demo and the todo-list demo in the demos folder.*
+>
 > Demonstrate some of the DOM API properties for finding elements & node children
 >
 > - **Element**`.nextElementSibling`
