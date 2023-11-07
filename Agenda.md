@@ -281,6 +281,10 @@
 
 ## Nov 7
 
+- [ ] Today's Lesson:
+  - [ ] Timeout and Interval demos
+  - [ ] DOM API demos
+
 ## Nov 9
 
 ----
