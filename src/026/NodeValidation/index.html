@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Node Validation Demo</title>
+    <link rel="stylesheet" href="https://unpkg.com/boltcss/bolt.min.css" />
+    <script src="./main.js" type="module"></script>
+</head>
+<body>
+    <h1>Demo of Parcel + Validator</h1>
+    <aside>While Node applications are powerful, the biggest challenge is often working out the various "config" files that are often needed by 3rd-party applications.</aside>
+    <p>In the world of Node applications, Parcel has arisen as a popular web bundler. It's popularity has been based largely on its "zero-configuration" abilities.</p>
+
+    <details>
+        <summary>Credit Card Validation</summary>
+        <label>Credit Card:
+            <input type="text" id="credit-card" placeholder="Enter a credit card number" />
+        </label>
+        <button id="validate-credit-card">Validate Credit Card</button>
+        <output id="credit-card-output"></output>
+    </details>
+
+    <details>
+        <summary>URL Validation</summary>
+        <label>URL:
+            <input type="text" id="url" placeholder="Enter a URL" />
+        </label>
+        <button id="validate-url">Validate URL</button>
+        <output id="url-output"></output>
+    </details>
+</body>
+</html>
