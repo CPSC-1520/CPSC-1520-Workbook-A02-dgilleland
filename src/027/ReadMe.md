@@ -12,9 +12,9 @@ console.log(numbers); // [1, 2, 3, 4, 5]
 
 Some of these built-in array methods will modify the actual contents of the array; these are called *mutating* methods. Others do not modify the original array; rather, they return new arrays with the results of the method. This later group is referred to as *non-mutating* methods.
 
-Many of the array methods listed here expect to receive a function as an argument. For example, the `.sort()`, `.map()` and `.filter()` methods expect a function that will act as a *predicate*. A predicate is a function that returns a boolean value.
+Many of the array methods listed here expect to receive a function as an argument. For example, the `.sort()` and `.filter()` methods expect a function that will act as a *predicate*. A predicate is a function that returns a boolean value.
 
-Other array methods expect functions that perform some other kind of operation on the array. For example, the `.reduce()` method expects a function that will perform some kind of summary calculation on the items in the array.
+Other array methods expect functions that perform some other kind of operation on the array. For example, the `.reduce()` method expects a function that will perform some kind of summary calculation on the items in the array. And the `.map()` method expects a function that will perform some kind of transformation on the items in the array.
 
 ### `.map()`
 
