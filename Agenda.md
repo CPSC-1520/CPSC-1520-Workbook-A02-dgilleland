@@ -292,11 +292,21 @@
 ## Nov 13 (W11)
 
 - [ ] Today's Lesson
-  - [ ] Using Classes to create objects
+  - [ ] Getting Started with NPM
 
 ## Nov 14
 
+- [ ] Today's Lesson
+  - [ ] Using the `.map()` method on arrays
+  - [ ] Using the `.filter()` method on arrays
+  - [ ] Using the `.reduce()` method on arrays
+  - [ ] Using the `.sort()` method on arrays
+
+
 ## Nov 16
+
+- [ ] Today's Lesson
+  - [ ] Lab Time (Assignment 2)
 
 ----
 
@@ -309,6 +319,9 @@
 ----
 
 ## Nov 27 (W13)
+
+- [ ] Today's Lesson
+  - [ ] Using Classes to create objects
 
 ## Nov 28
 
