@@ -29,6 +29,17 @@ The general structure of the project should look like this:
 
 One of the things that should be noted is that our folder structure protects the server-side code from being accessed through the browser. The `static` folder is the only folder that is accessible through the browser.
 
+## Groking the Code
+
+The article on MDN does a good overview of the code, but there are small parts of the code that will probably require a bit of pondering, even if you are feeling comfortable with JavaScript.
+
+Open a repl in node and load up the `repl/grok.js` file. It contains some of the code from the index.js to help you understand what is going on.
+
+1. Understanding the [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) (see also [this article](https://www.geeksforgeeks.org/javascript-spread-operator/))
+1. Understanding the [`arguments` variable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments) in JavaScript.
+1. In the repl, run the code `showMe(toBool)` - You will see that there is one argument: the array `toBool`.
+1. Now run the code `showMe(...toBool)` - You will see that there are two arguments.
+
 ## Adding Static Resources
 
 You can make your website more interesting by adding HTML, CSS, and JavaScript files to the `static` folder. You can also add images, fonts, and other resources to the `static` folder. You can get inspiration (and free resources) from places like [HTML5 Up](https://html5up.net/) or [Templated](https://templated.co/).
