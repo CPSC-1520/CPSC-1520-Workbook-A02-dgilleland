@@ -24,3 +24,7 @@ it.each([
     const actual = toPigLatin(given);
     expect(actual).toBe(expected);
 });
+
+it.todo('should do something about spaces', () => {
+    // TODO: write a test for this
+})
