@@ -22,7 +22,7 @@ The general structure of the project should look like this:
 📂 simple-server
 ├── 🗒️ index.js
 ├── 🗒️ package.json
-└── static
+└── 📂 static
     ├── 🕸️ 404.html
     └── 🕸️ index.html
 ```
