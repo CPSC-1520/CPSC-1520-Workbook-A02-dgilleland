@@ -1,8 +1,12 @@
 {
-  "name": "NodeConsoleApp",
+  "name": "node-console-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "type": "module",
+  "bin": {
+    "ncapp": "./lib/index.js"
+  },
   "scripts": {
     "test": "vitest"
   },
