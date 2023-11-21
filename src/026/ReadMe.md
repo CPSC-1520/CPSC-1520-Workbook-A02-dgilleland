@@ -13,6 +13,8 @@
 For this first example, we will create a simple Node.js project that uses the [Parcel](https://parceljs.org/) bundler to bundle our JavaScript and CSS files. We will use a class-less CSS library called ["Bolt"](https://boltcss.com/). We will also use the [Validator](https://www.npmjs.com/package/validator) library to validate user information, such as credit card numbers and web URLs.
 
 > For information on test data for validating credit cards, see this article on [Stripe](https://stripe.com/docs/testing) and this article on [Simplify](https://www.simplify.com/commerce/docs/testing/test-card-numbers).
+>
+> [Credit Card Images](./NodeValidation/img/) are from [Pixeden](https://www.pixeden.com/e-commerce-icons/payment-method-icons-set-vol-1).
 
 ----
 
