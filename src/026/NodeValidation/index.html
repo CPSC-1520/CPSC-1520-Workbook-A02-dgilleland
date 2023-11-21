@@ -15,7 +15,16 @@
     <details>
         <summary>Credit Card Validation</summary>
         <label>Credit Card:
-            <input type="text" id="credit-card" placeholder="Enter a credit card number" />
+            <input type="text" id="credit-card" list="credit-card-options" placeholder="Enter a credit card number" />
+            <!-- Add a list of options for the above input -->
+            <datalist id="credit-card-options">
+                <option value="4111 1111 1111 1111">Visa</option>
+                <option value="5500 0000 0000 0004">Mastercard</option>
+                <option value="3400 0000 0000 009">American Express</option>
+                <option value="3000 0000 0000 04">Diners Club</option>
+                <option value="6011 0000 0000 0004">Discover</option>
+                <option value="2014 0000 0000 009">enRoute</option>
+                <option value="3088 0000 0000 0009">JCB</option>
         </label>
         <button id="validate-credit-card">Validate Credit Card</button>
         <output id="credit-card-output"></output>
