@@ -18,5 +18,6 @@ The folder structure of our application will look like this:
 |   |-- 📄 db.json
 |   |-- 📄 package.json
 |-- 📂 frontend-website
-|   |-- 📄 index.html
+    |-- 📄 app.js
+    |-- 📄 index.html
 ```
