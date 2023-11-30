@@ -3,12 +3,14 @@
         {
             "id": 1,
             "title": "json-server",
-            "author": "typicode"
+            "author": "typicode",
+            "source": "json-server.md"
         },
         {
             "id": 2,
             "title": "Learning to Code",
-            "author": "Dan Gilleland"
+            "author": "Dan Gilleland",
+            "source": "learning-to-code.md"
         }
     ],
     "comments": [
@@ -19,6 +21,7 @@
         }
     ],
     "profile": {
-        "name": "typicode"
+        "name": "typicode",
+        "root": "./posts"
     }
 }
