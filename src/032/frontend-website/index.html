@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Demo JSON-Server</title>
     <script type="module" src="app.js"></script>
 </head>
+
 <body>
-    <h1>My Blog</h1>
-    <div id="app"></div>
+    <main>
+        <section>
+            <h1>My Blog</h1>
+            <div id="app"></div>
+        </section>
+        <section>
+            <form class="card">
+                <label for="postTitle">Title</label>
+                <input type="text" name="postTitle" id="postTitle">
+
+                <label for="author">Author</label>
+                <input type="text" name="author" id="author">
+
+                <button type="submit">Save Draft</button>
+            </form>
+        </section>
+    </main>
 </body>
+
 </html>

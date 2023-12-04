@@ -1,0 +1,9 @@
+form {
+    max-width: 90%;
+}
+form > input {
+    max-width: 80%;
+}
+form > label, form > button {
+    display: block;
+}
