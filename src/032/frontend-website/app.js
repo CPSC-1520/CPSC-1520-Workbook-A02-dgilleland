@@ -8,7 +8,7 @@ const URL = 'http://localhost:5000/'
 const routes = [ 'posts', 'comments', 'profile' ];
 // Functions to generate URLs for the backend server.
 const search = (text) => `?q=${text}`;
-const getPost = (route, id) => `${URL}${route}/${id}`;
+const getItemById = (route, id) => `${URL}${route}/${id}`;
 const list = (route) => `${URL}${route}`;
 
 const app = document.getElementById('app');
@@ -55,7 +55,7 @@ const loadPostOnClick = (ev) => {
     console.log(`${loadPostOnClick.name} --> '${heading.innerText}'`);
     const container = heading.parentElement;
     console.log(container.dataset.id);
-    const postUrl = getPost('posts', container.dataset.id);
+    const postUrl = getItemById('posts', container.dataset.id);
     console.log(postUrl);
 } // end of loadPostOnClick
 
