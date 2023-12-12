@@ -7,3 +7,26 @@ form > input {
 form > label, form > button {
     display: block;
 }
+
+/* Nav styling from https://dev.to/supanthapaul/create-a-simple-navbar-with-7-lines-of-css-4h7f*/
+nav {
+    display: flex;
+    justify-content:space-between; 
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #cfd8dc; 
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none; 
+  }
+  
+  nav li {
+    padding-left: 1rem; 
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #0d47a1
+  }

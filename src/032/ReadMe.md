@@ -33,9 +33,13 @@ Setting up the backend server is very easy. We just need to create a folder for 
 }
 ```
 
+This will start the server and it will be available at [`http://localhost:5000/`](http://localhost:5000/). You can also access the data in the `db.json` file directly at [`http://localhost:5000/db`](http://localhost:5000/db).
+
 ### The Frontend Client
 
 For our front-end client, we'll also set it up as a node project. Create the folder and run `npm init` to create the `package.json` file. For this project, we'll use `parcel` to serve our HTML page. We'll also use a node package called ["clam.css"](https://ryanmartin.me/clam.css/) for our overall styling; install it by running `npm i clam.css`. Once these dependencies are installed, we'll set up the following scripts in our `package.json` file:
+
+> *Note to self: The `clam.css` isn't as nice for forms as I'd like. I might need to find something else... .*
 
 ```json
   "source": "index.html",

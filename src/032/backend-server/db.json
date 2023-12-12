@@ -1,27 +1,50 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode",
-            "source": "json-server.md"
-        },
-        {
-            "id": 2,
-            "title": "Learning to Code",
-            "author": "Dan Gilleland",
-            "source": "learning-to-code.md"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode",
-        "root": "./posts"
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "source": "json-server.md"
+    },
+    {
+      "id": 2,
+      "title": "Learning to Code",
+      "author": "Dan Gilleland",
+      "source": "learning-to-code.md"
+    },
+    {
+      "id": 3,
+      "title": "No-Class Styling",
+      "author": "Dan Gilleland",
+      "source": "no-class-styling.md"
+    },
+    {
+      "id": 4,
+      "title": "Vite vs. Parcel",
+      "author": "Dan Gilleland",
+      "source": "vite-vs-parcel.md"
+    },
+    {
+      "id": 5,
+      "title": "ES6 Modules",
+      "author": "Dan Gilleland",
+      "source": "es6-modules.md"
+    },
+    {
+      "title": "How to POST Data",
+      "author": "Dan Gilleland",
+      "id": 6
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "root": "./posts"
+  }
 }

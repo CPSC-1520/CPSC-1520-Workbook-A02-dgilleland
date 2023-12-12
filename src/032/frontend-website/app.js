@@ -11,6 +11,19 @@ const search = (text) => `?q=${text}`;
 const getItemById = (route, id) => `${URL}${route}/${id}`;
 const list = (route) => `${URL}${route}`;
 
+const setupNav = () => {
+    const nav = document.querySelector('nav');
+    let html = '';
+    for(let index = 0; index < routes.length; index++) {
+        html += `<li data-route="${routes[index]}"><a href="#">${routes[index]}</a></li>`;
+    }
+    html = `<ul>${html}</ul>`;
+    nav.innerHTML += html;
+    nav.addEventListener('click', (ev) => {
+
+    })
+}
+
 const app = document.getElementById('app');
 
 const renderPosts = (posts, tag='div') => {
@@ -61,9 +74,39 @@ const loadPostOnClick = (ev) => {
 
 const savePostOnClick = (ev) => {
     ev.preventDefault();
-
+    const myForm = ev.target;
+    // Get my input elements
+    const postTitleInput = myForm.elements["postTitle"];
+    const authorInput = myForm.elements["author"];
+    // Build the data that I'm sending in the POST request
+    const data = {
+        title: postTitleInput.value,
+        author: authorInput.value
+    }
+    console.log("data:", data);
+    // Generate the URL for the POST request
+    const postUrl = list('posts');
+    console.log(postUrl);
+    // To send the info, I will use the Fetch API
+    const requestInfo = {
+        method: "POST", // *GET, POST, PUT, DELETE, etc.
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data), // body data type must match "Content-Type" header
+      }
+    fetch(postUrl,requestInfo).then(response => {
+        if(response.status === 201) { // 201 means a "created" response
+            console.log("Info posted to server");
+            listPosts();
+        } else {
+            console.log("Error:", response.status, response.statusText)
+        }
+    })
 }
 
 document.querySelector('form').addEventListener('submit', savePostOnClick);
 
+// Run the app
+setupNav();
 listPosts();
