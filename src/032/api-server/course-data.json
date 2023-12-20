@@ -1,0 +1,1391 @@
+{
+    "paths": [
+        {
+            "id": 1,
+            "name": "Computer Software Development",
+            "courses": [
+                {
+                    "level": "Level 1 - Required",
+                    "courses": [
+                        {
+                            "courseCode": "ANAP1525",
+                            "courseTitle": "Systems Analysis and Design I",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT172"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course will explore modern business information systems through the application of various analysis and design methodologies. The student will develop an understanding of information systems through practical application of data gathering, data storage and business event handling techniques with an emphasis on software driven solutions to meet the needs of modern business environments."
+                        },
+                        {
+                            "courseCode": "CMIS1014",
+                            "courseTitle": "System Foundations",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Students will learn how to work within the computer environment in use at NAIT, and access the software they need to complete their courses. This course includes learning how to set up common configurations of network architectures, network addressing schemes and protocols, including how these items are connected to their computer, and network-based activities such as browsing and file downloading. Students will learn how to employ backup methods and technologies to protect themselves and employers against data loss. In addition, students will learn about common operating system features such as binary numbering, the BIOS, environment variables, the registry and encoding methods."
+                        },
+                        {
+                            "courseCode": "COMP1017",
+                            "courseTitle": "Web Design Fundamentals I",
+                            "meta": [
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT108"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides the student with an introduction to the basics of web design. The topics covered are semantic Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), File Transfer Protocol (FTP), and crafting web pages using a plain text editor. With these skills, students will be able to create visually rich multi-page websites."
+                        },
+                        {
+                            "courseCode": "CPSC1012",
+                            "courseTitle": "Programming Fundamentals",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT104"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Computers can do many different jobs because they are programmable. Students will learn the fundamentals of a modern programming language, including objected-oriented programming and writing programs to solve problems and automate repetitive tasks."
+                        },
+                        {
+                            "courseCode": "CPSC1517",
+                            "courseTitle": "Introduction to Application Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Pre-Requisite: CPSC1012. Co-Requisite: DMIT1508."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT152"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course provides an introduction to computer programming using Client-Server concepts and architecture. It focuses on implementing workable and maintainable software to meet common business needs. Students are expected to have successfully completed appropriate course(s) covering programming fundamentals in modern programming languages prior to beginning this course. Concepts and implementations will incorporate modern industry tools, techniques and practices as they apply to software design, development and quality assurance."
+                        },
+                        {
+                            "courseCode": "CPSC1520",
+                            "courseTitle": "Client-Side Scripting with JavaScript",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program or the Digital Media and IT Co-op program. Prerequisite: COMP1017. Co-requisite: DMIT1530 or CPSC1517."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT218"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Almost all modern web applications rely on JavaScript for building interactive user experiences. In this course, students will learn about the fundamentals of the JavaScript language and how to implement interactive user experiences using JavaScript. In addition, students will learn how to handle client-side events, work with dynamic content, and interact with backend applications. Additional topics will include the Document Object Model (DOM), JavaScript Object Notation (JSON), Modules, and how to use package managers in JavaScript."
+                        },
+                        {
+                            "courseCode": "DMIT1001",
+                            "courseTitle": "Communications for Digital Media & IT",
+                            "meta": [
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Digital media and IT are woven into every aspect of our lives, and the ability to effectively communicate across media platforms is key to professional success. This course is intended to develop student self-awareness and encourages “audience-first” communications in IT business and media creation. Students in this course will develop skills in research, planning and writing business communications, collaborative thinking, teamwork, and professional presentation techniques."
+                        },
+                        {
+                            "courseCode": "DMIT1006",
+                            "courseTitle": "Business Practices",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT253"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Employees and business leaders excel through a keen understanding of business practices. This course intends to develop an awareness of standard business practices by exploring the people, data, and processes that support and inform on those practices. This course explores standard business documentation, various levels of business planning, data governance, and process management to help organizations meet their goals."
+                        },
+                        {
+                            "courseCode": "DMIT1508",
+                            "courseTitle": "Database Fundamentals",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT158, IST245"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course provides for database developers the technical skills necessary to design, build and work with database systems. The course will examine theoretical database concepts as well as provide experience solving business problems with database systems."
+                        },
+                        {
+                            "courseCode": "DMIT1530",
+                            "courseTitle": "Web Design Fundamentals II",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: COMP1017."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT166"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "HyperText Markup Language (HTML) and Cascading Style Sheets (CSS) are core skills for any web or application developer. Expanding on concepts explored in COMP1017, students will further develop their skills in semantic HTML and CSS to learn how to build responsive websites and how to optimize them for speed and performance."
+                        },
+                        {
+                            "courseCode": "ORGB1500",
+                            "courseTitle": "Organizational Behaviour for Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT183, DMIT258, IST370"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "We live in a world where human behaviour can be, at times, strange and complex. This course will demonstrate some of the ways in which behaviour analysis can be used to benefit a student’s well-being in their personal and professional lives. There will be an emphasis on understanding how and why people think and behave the way they do by developing skills in recognizing behaviour, applying theories, and identifying potential conflicts or harmonies within a person’s behaviour as well as the behaviour of others."
+                        }
+                    ]
+                },
+                {
+                    "level": "Level 2 - Required",
+                    "courses": [
+                        {
+                            "courseCode": "DMIT2000",
+                            "courseTitle": "Advanced Communication for Digital Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: DMIT1001."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT154"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Would you communicate differently when addressing a stranger, a friend, a classmate, your instructor the President of NAIT, or your superior at work? Of course, you would, and should. Context and your audience necessitate an appropriate approach for communication to be effective. And remember, communication is not just the words coming out of your mouth, or on paper... it's also the attitude that conveys them. This course provides opportunities to apply communication concepts and skills to an IT or Digital Media environment. It will allow students to further enhance their skills in formal research, academic and business writing, discussion facilitation, as well as formal presentations that are well-devised, researched, substantiated and documented, some of the foundational skills for career success. All forms of business communication have their own set of standards and guidelines. This course is about the commonly accepted rules that guide effective business communication. The premise for this course is that those who communicate well are recognized and move up the career ladder more expeditiously. Therefore, motivation to communicate well must be strong among those in pursuit of career success."
+                        },
+                        {
+                            "courseCode": "DMIT2018",
+                            "courseTitle": "Intermediate Application Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisites: CPSC1517, DMIT1508."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT204"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course introduces the student to multi-user and multi-tier (layer) analysis, design and implementation concepts with a focus on On-Line Transaction Processing (OLTP). An emphasis will be placed on team development of Internet-based applications using database services."
+                        },
+                        {
+                            "courseCode": "DMIT2027",
+                            "courseTitle": "Project Essentials",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT1001."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT259"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Students will become familiar with essential skills in planning and executing large projects. Using effective team work, research, brainstorming and planning skills, students will learn to manage the various stages of a project in a variety of disciplines in Digital Media and IT. Finally, a software tool is used to track activities, costs, resources and overall milestones acheived."
+                        },
+                        {
+                            "courseCode": "DMIT2507",
+                            "courseTitle": "Business Intelligence",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Pre-requisite: DMIT1508."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Successful businesses make effective use of data they have when making decisions. This course introduces the subject of Business Intelligence. An introduction to types of databases and use of data as well as basic techniques to compile and integrate data in a business intelligence solution will be covered. Using industry standard tools students will design and implement various components of a business intelligence solution including creating a data mart, the ETL process, multi-dimensional cube, and reports."
+                        },
+                        {
+                            "courseCode": "DMIT2590",
+                            "courseTitle": "Capstone Project",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: Successful completion of term one, term two, and term three courses in the concentration."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 6.00"
+                                }
+                            ],
+                            "description": "This course will bring together the knowledge and skills acquired during the first, second and third semesters of the DMIT program. Students or student teams will develop a project from analysis, through design, to development for an industry client. To further simulate the business environment, the teams will present their findings through both oral presentation and written documentation."
+                        }
+                    ]
+                },
+                {
+                    "level": "Level 2 - Choose between package A or B. Package A courses to complete are:",
+                    "courses": [
+                        {
+                            "courseCode": "DMIT2008",
+                            "courseTitle": "Front-End Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the DMIT program. Prerequisite: CPSC1520."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT276"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Modern applications built for the web must compete with the speed and efficiency of native desktop and mobile applications. In this course, students will design and build client-side web applications primarily using JavaScript, HTML, and CSS. Emphasis is placed on rapid prototyping of application interfaces and best practices in front-end development. Students will work with various application development libraries and frameworks to develop single-page applications, implement test-driven development methodologies, and apply methods to improve development workflow."
+                        },
+                        {
+                            "courseCode": "DMIT2015",
+                            "courseTitle": "Enterprise Application Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisites: COMP1017, CPSC1517, DMIT1508."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT221"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "An enterprise application is a big business application that must meet stringent requirements for security, administration, and maintenance. In this course, you learn how to use industry-standard technologies to design, build, and integrate presentation-oriented and service-oriented web applications that are high performing, scalable, and secure."
+                        },
+                        {
+                            "courseCode": "DMIT2504",
+                            "courseTitle": "Android Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: CPSC1012."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT275"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course provides an introduction to application development for the Android platform, including phones and tablets. The course focuses on how applications work and are developed for the targeted platform. Students will learn how to install and use development tools and platforms and create robust 3-tier applications. Students are encouraged to have completed DMIT1508 as well as the pre-requisite listed."
+                        }
+                    ]
+                },
+                {
+                    "level": "Level 2 - Choose between package A or B. Package B courses to complete are:",
+                    "courses": [
+                        {
+                            "courseCode": "DMIT2019",
+                            "courseTitle": "Intermediate Database Programming",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisites: CPSC1012 and DMIT1508."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT229"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course will build upon the foundational database skills taught in DMIT1508 and will explore database programming using the most popular relational database in the world – Oracle. Students will utilise Oracle’s procedural language (PL/SQL) to develop modular, efficient, and maintainable database functions, procedures, packages, and triggers to solve complex business data problems. The students will also construct business application(s) using Oracle Forms, which is Oracle’s user interface to access an Oracle Database in an efficient and tightly coupled manner. While Oracle Forms may be a mature application development technology, it remains widely used by many organizations in Alberta and around the world."
+                        },
+                        {
+                            "courseCode": "DMIT2025",
+                            "courseTitle": "PHP/MySQL",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT1530."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT222"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Powering three-quarters of the modern web, PHP is the leading open-source server-side language for web developers. Students in this course will use PHP and MySQL to create dynamic websites, build simple web applications, and develop database-driven website features such as blogs, image galleries, content management systems, and online catalogues."
+                        },
+                        {
+                            "courseCode": "ORGB2001",
+                            "courseTitle": "Advanced Organizational Behaviour for Digital Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " Prerequisites: DMIT1001, ORGB1500."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT256"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Building off the concepts learned in ORGB1500, this course will further introduce concepts to be used by a student to benefit their well-being in their personal and professional lives by recognizing, analyzing, and identifying potential conflicts or harmonies in their behaviour as well as the people around them. The course will focus on morality, influence, social network analysis, positive psychology, and emotional affect."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Web Design and Development",
+            "courses": [
+                {
+                    "level": "Level 1 - Required",
+                    "courses": [
+                        {
+                            "courseCode": "CMIS1014",
+                            "courseTitle": "System Foundations",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Students will learn how to work within the computer environment in use at NAIT, and access the software they need to complete their courses. This course includes learning how to set up common configurations of network architectures, network addressing schemes and protocols, including how these items are connected to their computer, and network-based activities such as browsing and file downloading. Students will learn how to employ backup methods and technologies to protect themselves and employers against data loss. In addition, students will learn about common operating system features such as binary numbering, the BIOS, environment variables, the registry and encoding methods."
+                        },
+                        {
+                            "courseCode": "COMP1008",
+                            "courseTitle": "Digital Graphic Design Tools",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT102"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Many digital media concentrations require a strong working knowledge of basic digital graphic design tools and techniques. Digital Graphic Design Tools is an introductory course that familiarizes students with two core software tools: Adobe Photoshop and Adobe Illustrator. Technical skills will be taught through a series of modules, with an emphasis on building a strong basis for future design work across multiple digital media concentrations."
+                        },
+                        {
+                            "courseCode": "COMP1017",
+                            "courseTitle": "Web Design Fundamentals I",
+                            "meta": [
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT108"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides the student with an introduction to the basics of web design. The topics covered are semantic Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), File Transfer Protocol (FTP), and crafting web pages using a plain text editor. With these skills, students will be able to create visually rich multi-page websites."
+                        },
+                        {
+                            "courseCode": "CPSC1520",
+                            "courseTitle": "Client-Side Scripting with JavaScript",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program or the Digital Media and IT Co-op program. Prerequisite: COMP1017. Co-requisite: DMIT1530 or CPSC1517."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT218"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Almost all modern web applications rely on JavaScript for building interactive user experiences. In this course, students will learn about the fundamentals of the JavaScript language and how to implement interactive user experiences using JavaScript. In addition, students will learn how to handle client-side events, work with dynamic content, and interact with backend applications. Additional topics will include the Document Object Model (DOM), JavaScript Object Notation (JSON), Modules, and how to use package managers in JavaScript."
+                        },
+                        {
+                            "courseCode": "DMIT1001",
+                            "courseTitle": "Communications for Digital Media & IT",
+                            "meta": [
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Digital media and IT are woven into every aspect of our lives, and the ability to effectively communicate across media platforms is key to professional success. This course is intended to develop student self-awareness and encourages “audience-first” communications in IT business and media creation. Students in this course will develop skills in research, planning and writing business communications, collaborative thinking, teamwork, and professional presentation techniques."
+                        },
+                        {
+                            "courseCode": "DMIT1508",
+                            "courseTitle": "Database Fundamentals",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT158, IST245"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course provides for database developers the technical skills necessary to design, build and work with database systems. The course will examine theoretical database concepts as well as provide experience solving business problems with database systems."
+                        },
+                        {
+                            "courseCode": "DMIT1529",
+                            "courseTitle": "Web Design & Usability I",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: COMP1017, COMP1008. Co-requisite: DMIT1530."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT179"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Students in this course will develop skills in designing for the web with a focus on usability and user experience. The course will practice the theories and techniques behind grid based interface design, web typography, CSS style and layout, and using image editing software as a design tool."
+                        },
+                        {
+                            "courseCode": "DMIT1530",
+                            "courseTitle": "Web Design Fundamentals II",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: COMP1017."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT166"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "HyperText Markup Language (HTML) and Cascading Style Sheets (CSS) are core skills for any web or application developer. Expanding on concepts explored in COMP1017, students will further develop their skills in semantic HTML and CSS to learn how to build responsive websites and how to optimize them for speed and performance."
+                        },
+                        {
+                            "courseCode": "DMIT1533",
+                            "courseTitle": "Digital Photography",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT160"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course is an introduction to the operation of digital cameras. Students will learn digital camera controls for use in basic photography composition - adjusting exposure, lens fundamentals and an introduction to lighting."
+                        },
+                        {
+                            "courseCode": "DSGN1016",
+                            "courseTitle": "Visual Communications I",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT107"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Effective visual communication design helps connect the viewer with the intended message. Students in this course will be introduced to fundamental principles of visual design and develop a foundation for practical applications. Students will explore an iterative design process through a guided workflow that includes both digital and non-digital solutions. The lectures and assignments in this course will help develop and foster creative growth and expression while providing an understanding of the evolution of visual design."
+                        },
+                        {
+                            "courseCode": "ORGB1500",
+                            "courseTitle": "Organizational Behaviour for Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT183, DMIT258, IST370"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "We live in a world where human behaviour can be, at times, strange and complex. This course will demonstrate some of the ways in which behaviour analysis can be used to benefit a student’s well-being in their personal and professional lives. There will be an emphasis on understanding how and why people think and behave the way they do by developing skills in recognizing behaviour, applying theories, and identifying potential conflicts or harmonies within a person’s behaviour as well as the behaviour of others."
+                        }
+                    ]
+                },
+                {
+                    "level": "Level 2 - Required",
+                    "courses": [
+                        {
+                            "courseCode": "DMIT1528",
+                            "courseTitle": "Web Business Essentials",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program or the Digitial Media and IT Co-op program. Prerequisite: COMP1017."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "A modern website is more than code and design, it must provide a high-level experience, be an authority on its chosen area of expertise and use tools to drive traffic to the site. In this course, students will explore the fundamentals of the communications and business aspects of the World Wide Web. Topics will include search engine optimization & marketing, social network marketing & community building, online revenue streams, effective writing for the web, analysis of web traffic, an introduction to client relations and media law, and how to freelance as a web designer."
+                        },
+                        {
+                            "courseCode": "DMIT2000",
+                            "courseTitle": "Advanced Communication for Digital Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: DMIT1001."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT154"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Would you communicate differently when addressing a stranger, a friend, a classmate, your instructor the President of NAIT, or your superior at work? Of course, you would, and should. Context and your audience necessitate an appropriate approach for communication to be effective. And remember, communication is not just the words coming out of your mouth, or on paper... it's also the attitude that conveys them. This course provides opportunities to apply communication concepts and skills to an IT or Digital Media environment. It will allow students to further enhance their skills in formal research, academic and business writing, discussion facilitation, as well as formal presentations that are well-devised, researched, substantiated and documented, some of the foundational skills for career success. All forms of business communication have their own set of standards and guidelines. This course is about the commonly accepted rules that guide effective business communication. The premise for this course is that those who communicate well are recognized and move up the career ladder more expeditiously. Therefore, motivation to communicate well must be strong among those in pursuit of career success."
+                        },
+                        {
+                            "courseCode": "DMIT2008",
+                            "courseTitle": "Front-End Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the DMIT program. Prerequisite: CPSC1520."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT276"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Modern applications built for the web must compete with the speed and efficiency of native desktop and mobile applications. In this course, students will design and build client-side web applications primarily using JavaScript, HTML, and CSS. Emphasis is placed on rapid prototyping of application interfaces and best practices in front-end development. Students will work with various application development libraries and frameworks to develop single-page applications, implement test-driven development methodologies, and apply methods to improve development workflow."
+                        },
+                        {
+                            "courseCode": "DMIT2025",
+                            "courseTitle": "PHP/MySQL",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT1530."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT222"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Powering three-quarters of the modern web, PHP is the leading open-source server-side language for web developers. Students in this course will use PHP and MySQL to create dynamic websites, build simple web applications, and develop database-driven website features such as blogs, image galleries, content management systems, and online catalogues."
+                        },
+                        {
+                            "courseCode": "DMIT2032",
+                            "courseTitle": "Web Content Management Systems",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: DMIT1530."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "There are literally tens of millions of web sites that have been built using a Content Management System (CMS). Content management systems such as Wordpress, Joomla and Druple provide developers with the ability build highly customizable and functional web sites for their clients. The bonus of using a CMS is that every CMS comes with a pre-built web interface that gives the client the ability to add updated and delete the content on their web site without having to have knowledge of HTML/CSS. In this course students will learn how to build web sites that leverage the power of a CMS. The first step in the process is learning how to install and configure a CMS framework. Once the CMS is installed students will learn the core concepts of how to use the CMS framework to develop a web site. Having mastered how to use the CMS framework students then will adapt custom site designs and implement them as themes within the CMS framework. Finally the student will learn how to increase the functionality of the web sites they build by learning how to install and configure plug-ins and widgets built for CMS frameworks."
+                        },
+                        {
+                            "courseCode": "DMIT2033",
+                            "courseTitle": "Web Design and Usability II",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: DMIT1530, DMIT1529."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "User interface design is essential in creating positive experiences, increasing functionality and increasing customer loyalty for your digital products. With an emphasis on designing responsive websites, this course builds upon the concepts uncovered in DMIT1529 to further practice implementing user-centric design principles. Students will explore the most recent developments in mobile design patterns, intrinsic design, interactive JavaScript components, prototyping tools, and CSS effects and animations."
+                        },
+                        {
+                            "courseCode": "DMIT2501",
+                            "courseTitle": "Portfolio Development",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT219"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Developing a portfolio showcasing professional and personal skills is a vital component in identifying and achieving career objectives in a highly competitive employment environment. Students in Portfolio Development will create a unique roadmap to their success by creating a web portfolio, a personal brand, a resume, discipline appropriate collateral items and learn techniques to prepare for job interviews and present their work in person and online."
+                        },
+                        {
+                            "courseCode": "DMIT2503",
+                            "courseTitle": "Advanced Web Concepts",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: DMIT2025."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Building upon the skills learned in the prerequisites, students will explore further PHP/MySQL web development utilizing extensive Javascript , CSS and design techniques to enhance user experience."
+                        },
+                        {
+                            "courseCode": "DMIT2590",
+                            "courseTitle": "Capstone Project",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: Successful completion of term one, term two, and term three courses in the concentration."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 6.00"
+                                }
+                            ],
+                            "description": "This course will bring together the knowledge and skills acquired during the first, second and third semesters of the DMIT program. Students or student teams will develop a project from analysis, through design, to development for an industry client. To further simulate the business environment, the teams will present their findings through both oral presentation and written documentation."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "System Administrator",
+            "courses": [
+                {
+                    "level": "Level 1 - Required",
+                    "courses": [
+                        {
+                            "courseCode": "CMIS1014",
+                            "courseTitle": "System Foundations",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Students will learn how to work within the computer environment in use at NAIT, and access the software they need to complete their courses. This course includes learning how to set up common configurations of network architectures, network addressing schemes and protocols, including how these items are connected to their computer, and network-based activities such as browsing and file downloading. Students will learn how to employ backup methods and technologies to protect themselves and employers against data loss. In addition, students will learn about common operating system features such as binary numbering, the BIOS, environment variables, the registry and encoding methods."
+                        },
+                        {
+                            "courseCode": "COMP1017",
+                            "courseTitle": "Web Design Fundamentals I",
+                            "meta": [
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT108"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides the student with an introduction to the basics of web design. The topics covered are semantic Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), File Transfer Protocol (FTP), and crafting web pages using a plain text editor. With these skills, students will be able to create visually rich multi-page websites."
+                        },
+                        {
+                            "courseCode": "CPSC1012",
+                            "courseTitle": "Programming Fundamentals",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT104"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Computers can do many different jobs because they are programmable. Students will learn the fundamentals of a modern programming language, including objected-oriented programming and writing programs to solve problems and automate repetitive tasks."
+                        },
+                        {
+                            "courseCode": "DMIT1001",
+                            "courseTitle": "Communications for Digital Media & IT",
+                            "meta": [
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Digital media and IT are woven into every aspect of our lives, and the ability to effectively communicate across media platforms is key to professional success. This course is intended to develop student self-awareness and encourages “audience-first” communications in IT business and media creation. Students in this course will develop skills in research, planning and writing business communications, collaborative thinking, teamwork, and professional presentation techniques."
+                        },
+                        {
+                            "courseCode": "DMIT1006",
+                            "courseTitle": "Business Practices",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT253"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Employees and business leaders excel through a keen understanding of business practices. This course intends to develop an awareness of standard business practices by exploring the people, data, and processes that support and inform on those practices. This course explores standard business documentation, various levels of business planning, data governance, and process management to help organizations meet their goals."
+                        },
+                        {
+                            "courseCode": "DMIT1518",
+                            "courseTitle": "IT System Administration",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: CMIS1014."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT170"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides students with an increased understanding of fundamental systems administration concepts and tasks, including TCP/IP networking, troubleshooting, security concepts, virtualization, and subnetting, which are used day to day in industry."
+                        },
+                        {
+                            "courseCode": "DMIT1523",
+                            "courseTitle": "Open Source OS and Apps",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program or the Digital Media and IT Co-op program. Prerequisite: CMIS1014."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides the student with the knowledge to install, configure and administer an Open Source operating system such as Linux."
+                        },
+                        {
+                            "courseCode": "DMIT1531",
+                            "courseTitle": "Web Server with Database Integration",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: CMIS1014. Co-requsite: DMIT1518."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "This course is focused on the installation and configuration of two different website hosting solutions: LAMP and WISA. Students will learn how to install and configure Microsoft Windows Server, along with Internet Information Services (IIS) Web Server, Microsoft SQL Database Server, and ASP.NET (WISA). Students will also learn how to install and configure a Linux server running an Apache web server, MySQL database server, and PHP (LAMP). Topics such as security, maintenance and best practices will be discussed and applied throughout the course."
+                        },
+                        {
+                            "courseCode": "DMIT1532",
+                            "courseTitle": "Windows Client Operating Systems",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: CMIS1014."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT177"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides the student with the basic knowledge related to installation, configuration and operation of a Microsoft Windows Client. Students will learn about firewalls, device drivers, networking configuration, user accounts and performance tuning. Students also learn about desktop security features such as file security, bitlocker and applocker."
+                        },
+                        {
+                            "courseCode": "DMIT1534",
+                            "courseTitle": "IT Threat Analysis",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to student in the Digital Media and IT program. Pre-Requisite: CMIS1014."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "There is a growing demand for protecting computer systems and minimizing security incidents. This course will introduce students to a structured analysis process that will be used to protect computer systems against common threats. This will enable students to acquire the skills needed to identity gaps in computer configuration, assess viable threats, and recommend resolution techniques."
+                        },
+                        {
+                            "courseCode": "ORGB1500",
+                            "courseTitle": "Organizational Behaviour for Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT183, DMIT258, IST370"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "We live in a world where human behaviour can be, at times, strange and complex. This course will demonstrate some of the ways in which behaviour analysis can be used to benefit a student’s well-being in their personal and professional lives. There will be an emphasis on understanding how and why people think and behave the way they do by developing skills in recognizing behaviour, applying theories, and identifying potential conflicts or harmonies within a person’s behaviour as well as the behaviour of others."
+                        }
+                    ]
+                },
+                {
+                    "level": "Level 2 - Required",
+                    "courses": [
+                        {
+                            "courseCode": "DMIT2000",
+                            "courseTitle": "Advanced Communication for Digital Media and IT",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: DMIT1001."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT154"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Would you communicate differently when addressing a stranger, a friend, a classmate, your instructor the President of NAIT, or your superior at work? Of course, you would, and should. Context and your audience necessitate an appropriate approach for communication to be effective. And remember, communication is not just the words coming out of your mouth, or on paper... it's also the attitude that conveys them. This course provides opportunities to apply communication concepts and skills to an IT or Digital Media environment. It will allow students to further enhance their skills in formal research, academic and business writing, discussion facilitation, as well as formal presentations that are well-devised, researched, substantiated and documented, some of the foundational skills for career success. All forms of business communication have their own set of standards and guidelines. This course is about the commonly accepted rules that guide effective business communication. The premise for this course is that those who communicate well are recognized and move up the career ladder more expeditiously. Therefore, motivation to communicate well must be strong among those in pursuit of career success."
+                        },
+                        {
+                            "courseCode": "DMIT2021",
+                            "courseTitle": "Microsoft Active Directory",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisites: DMIT1518, DMIT1531."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT220"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Active Directory Domain Services is one of the directory services provided by Microsoft Active Directory. Its primary functions include providing authentication and authorization to help manage access to network resources. This course is focused on the installation and configuration of Active Directory. Students will also learn how to create user and computer accounts and manage resources on the network using group policies. Topics such as security, maintenance, and planning of active directory forest design will be discussed and applied in this course."
+                        },
+                        {
+                            "courseCode": "DMIT2022",
+                            "courseTitle": "Microsoft SharePoint Server",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: DMIT1518, DMIT1531."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "SharePoint provides a rich collaboration environment where people inside and outside an organization can work together to build content and share information. This course introduces students to installing, configuring and administering Microsoft Sharepoint Server. Students will also learn how to build intranet sites and create pages, document libraries, lists, and more."
+                        },
+                        {
+                            "courseCode": "DMIT2023",
+                            "courseTitle": "Microsoft Windows Server",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT1531."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 4.50"
+                                }
+                            ],
+                            "description": "Microsoft Windows Server is a popular, highly configurable operating system with a wide variety of business-oriented functionality that can be enabled and customized depending on the organization's needs. In this course, students will learn how to install and configure Microsoft Windows Server along with several commonly used Windows Server system components, such as Windows Deployment Services, Windows patch management, Remote Desktop Services, Windows DHCP, DNS services, and others. The focus is on built-in Windows Server features that students must know when entering the workforce."
+                        },
+                        {
+                            "courseCode": "DMIT2027",
+                            "courseTitle": "Project Essentials",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT1001."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT259"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Students will become familiar with essential skills in planning and executing large projects. Using effective team work, research, brainstorming and planning skills, students will learn to manage the various stages of a project in a variety of disciplines in Digital Media and IT. Finally, a software tool is used to track activities, costs, resources and overall milestones acheived."
+                        },
+                        {
+                            "courseCode": "DMIT2034",
+                            "courseTitle": "Seminar on Emerging Technologies",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisite: DMIT1518."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Emerging digital technologies have generated new opportunities while creating new avenues for addressing business challenges. This course explores new leading-edge technologies not covered in the DMIT’s typical System Administration course offerings. Students will research, compare, evaluate, and implement a pilot project for the emerging technology they would like to experiment with using a systematic methodology."
+                        },
+                        {
+                            "courseCode": "DMIT2509",
+                            "courseTitle": "Computer Forensics",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT1518."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT270"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course is an introduction to the topic of computer forensics. Students learn how to properly investigate a computer security incident (also known as a hack) to prepare them for the growing cybersecurity needs of industry."
+                        },
+                        {
+                            "courseCode": "DMIT2512",
+                            "courseTitle": "Mail Server",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisite: DMIT2021."
+                                },
+                                {
+                                    "key": "Course Equivalencies:",
+                                    "value": " DMIT230"
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "This course provides the knowledge to install, configure, and maintain an Exchange Server messaging system. Coverage includes building an Exchange infrastructure, managing recipient objects, configuring client connectivity, managing server roles, and constructing a high-availability environment."
+                        },
+                        {
+                            "courseCode": "DMIT2515",
+                            "courseTitle": "Securing MS Active Directory",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT program. Prerequisites: DMIT2021, DMIT2023."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 3.00"
+                                }
+                            ],
+                            "description": "Active Directory Certificate Services (AD CS) plays a significant role in Windows Server. AD CS provides users with customizable services for creating and managing Public Key Infrastructure (PKI) certificates, which can be used for encrypting and digitally signing electronic documents, emails, and web transactions. This course will focus on implementing certificate authority structures, servers, and templates while exploring other security opportunities in server technologies such as IPsec, VPN, and rights management."
+                        },
+                        {
+                            "courseCode": "DMIT2590",
+                            "courseTitle": "Capstone Project",
+                            "meta": [
+                                {
+                                    "key": "Requisites:",
+                                    "value": " This course is available to students in the Digital Media and IT and Digital Media and IT Co-op programs. Prerequisites: Successful completion of term one, term two, and term three courses in the concentration."
+                                },
+                                {
+                                    "key": "Open Studies:",
+                                    "value": " Not Available"
+                                },
+                                {
+                                    "key": "Credits:",
+                                    "value": " 6.00"
+                                }
+                            ],
+                            "description": "This course will bring together the knowledge and skills acquired during the first, second and third semesters of the DMIT program. Students or student teams will develop a project from analysis, through design, to development for an industry client. To further simulate the business environment, the teams will present their findings through both oral presentation and written documentation."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

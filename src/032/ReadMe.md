@@ -33,6 +33,12 @@ Setting up the backend server is very easy. We just need to create a folder for 
 }
 ```
 
+> **Note:** When you type `npm run backend` in the terminal, first make sure that your terminal is open in the same folder as the backend's `package.json` file. So, if your folder is at `C:\GH\CPSC-1520\MyProject\backend-server`, then you need to open the terminal in that folder. You can do this by right-clicking on the folder in VS Code and selecting "Open in Integrated Terminal".
+>
+> The same will be true later on when you go to run the front-end client. You'll need to open the terminal in the folder where that website's `package.json` file is located.
+>
+> Essentially, you need **two** terminal windows open - one for the backend server and one for the front-end client.
+
 This will start the server and it will be available at [`http://localhost:5000/`](http://localhost:5000/). You can also access the data in the `db.json` file directly at [`http://localhost:5000/db`](http://localhost:5000/db).
 
 ### The Frontend Client

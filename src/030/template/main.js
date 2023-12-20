@@ -66,8 +66,3 @@ if (selectedStyle) {
 document.body.appendChild(styleSelect);
 
 
-
-// var link = document.createElement('link');
-// link.setAttribute('rel', 'stylesheet');
-// link.setAttribute('href', 'path/to/your/css/file.css');
-// document.head.appendChild(link);
