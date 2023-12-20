@@ -1,4 +1,9 @@
 // TODO: Outline the tasks/logic using only comments
+import 'concrete.css';
+import * as UI from './modules/ui.js';
+
+document.querySelector('h1')
+.innerHTML += ` <span>${UI.viteLogoLink} ${UI.javascriptLogoLink}</span>`;
 
 // Purpose: This presents a form to input the course number and name of the course as well as the final mark for the course.
 import { Course } from './modules/models.js';
@@ -11,9 +16,10 @@ import { Course } from './modules/models.js';
 */
 const btn = document.querySelector('button');
 console.log(btn);
-btn.addEventListener('click', () => {
-    const courseNumber = document.querySelector('#courseNumber').value;
-    const courseName = document.querySelector('#courseName').value;
-    const course = new Course(courseName, courseNumber);
-    console.log(course.name, course.number, course.grade);
-});
+const addCourseClickHandler = () => {
+  const courseNumber = document.querySelector('#courseNumber').value;
+  const courseName = document.querySelector('#courseName').value;
+  const course = new Course(courseName, courseNumber);
+  console.log(course.name, course.number, course.grade);
+};
+btn.addEventListener('click', addCourseClickHandler);

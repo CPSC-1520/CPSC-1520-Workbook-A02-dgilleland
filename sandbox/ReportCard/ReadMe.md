@@ -18,7 +18,7 @@ This summary transcript will be rendered in a tabular format. Details for each c
 
 > ### Styling and CSS
 >
-> While this course is focused on providing *functionality and interactivity* with JavaScript rather than HTML/CSS design, it never hurts to make things look appealing. This project leverages the idea of **class-less CSS** (also known as "no-class CSS") and uses the [**Bolt.css**](https://boltcss.com/) stylesheet via a CDN (content-delivery network) link: `<link rel="stylesheet" href="https://unpkg.com/boltcss/bolt.min.css">`. If you wish, you can try some other no-class stylesheets such as [OK.css](https://okcss.netlify.app/).
+> While this course is focused on providing *functionality and interactivity* with JavaScript rather than HTML/CSS design, it never hurts to make things look appealing. This project leverages the idea of **class-less CSS** (also known as "no-class CSS") and uses the [**concrete.css**](https://www.npmjs.com/package/concrete.css) package as a Node library. ~~[**Bolt.css**](https://boltcss.com/) stylesheet via a CDN (content-delivery network) link: `<link rel="stylesheet" href="https://unpkg.com/boltcss/bolt.min.css">`~~. If you wish, you can try some other no-class stylesheets such as [OK.css](https://okcss.netlify.app/).
 
 ## Bonus Features
 

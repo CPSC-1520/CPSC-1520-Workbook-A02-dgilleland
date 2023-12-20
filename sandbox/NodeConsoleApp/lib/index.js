@@ -6,6 +6,7 @@
 // (assuming you are running from the console at the root of this repository)
 
 // This is the "entry point" for the application.
+console.clear();
 console.log('Hello, world!');
 /* How Node Works
     When Node runs, it will have a global variable called `process` that contains information about the whole "context" of the application that has been started.
@@ -30,6 +31,11 @@ console.log(process.argv);
 // The following code will print the current working directory.
 console.log('Current working directory:');
 console.log(process.cwd());
-// The following code will print the environment variables.
+// The following code will print the number environment variables.
 console.log('Environment variables:');
-console.log(process.env);
+const numItems = Object.keys(process.env).length;
+console.log(`Number of items in process.env: ${numItems}`);
+
+// The following code will print the environment path variable.
+console.log('Environment path variable:');
+console.log(process.env.PATH.split(';'));

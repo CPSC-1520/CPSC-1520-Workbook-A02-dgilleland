@@ -14,6 +14,8 @@ iwr https://get.pnpm.io/install.ps1 -useb | iex
 
 ## Getting Started
 
+For this example, we will create a simple console application that will accept flag values from the command line. We'll place this in a folder called 'my-cli'.
+
 First, let's begin by creating a `package.json` file. This file will contain all the information about our application. To create this file, run the following command in the Terminal:
 
 ```powershell
@@ -72,6 +74,25 @@ After installing the `vitest` package, we'll need to add a `test` script to our 
     "test": "vitest"
   },
 ```
+
+## TODO:
+
+- [ ] Checking the Setup
+  - [ ] Adding the `index.js` file and displaying "Hello World"
+  - [ ] Running the app from the command line using `node`
+- [ ] Passing parameters to the app
+  - [ ] Using `process.argv`
+  - [ ] Displaying the parameters
+- [ ] Parsing the parameters
+  - [ ] create a `arguments.js` file and a `arguments.spec.js` file
+  - [ ] supported arguments:
+    - [ ] `--help` or `-h`
+    - [ ] `--version` or `-v`
+    - [ ] `--name` or `-n`
+    - [ ] `--date` or `-d` with a date value as a string or a number (epoch time)
+    - [ ] `--about` or `-a` with a string value for the [`process`](https://nodejs.org/api/process.html) property that specifies either `cwd` or `env`.
+
+----
 
 ## Appendix
 
